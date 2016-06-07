@@ -1,0 +1,26 @@
+{
+  "curly":false,  //大括号必须
+  "eqeqeq":false, //===不必须
+  "esversion":6, //支持ECMAScript 6语法
+  "funcscope":true, //变量声明位置
+  "latedef":"nofunc",
+  "undef":true, //变量必须定义
+  "unused":true, //定义的变量必须使用
+  "maxdepth":4,
+  "asi":true, //必须分号结尾
+  "boss":false,
+  "maxparams":3,
+  "nocomma":true,  //禁用逗号表达式
+  "notypeof":true, 
+  "predef":"",
+  //"globals":{},         可以在代码中注释全局变量 例如： /* globals jQuery */
+  "strict":"global", // use strict
+  "debug":true,
+  "eqnull":false,
+  "browser":true,
+  "jquery":true,
+  "browserify":true,
+  "module":true,
+  "node":true,
+  "nonstandard":true
+}

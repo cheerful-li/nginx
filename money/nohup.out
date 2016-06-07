@@ -1,0 +1,1644 @@
+Tue, 19 Apr 2016 09:13:47 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at app.js:32:9
+Tue, 19 Apr 2016 09:13:47 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
+Tue, 19 Apr 2016 09:13:47 GMT express-session deprecated undefined resave option; provide resave option at app.js:40:9
+Tue, 19 Apr 2016 09:13:47 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:40:9
+Tue, 19 Apr 2016 09:13:47 GMT express-session deprecated req.secret; provide secret option at app.js:40:9
+Port 3000 is already in use
+Tue, 19 Apr 2016 09:15:10 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at app.js:32:9
+Tue, 19 Apr 2016 09:15:10 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
+Tue, 19 Apr 2016 09:15:10 GMT express-session deprecated undefined resave option; provide resave option at app.js:40:9
+Tue, 19 Apr 2016 09:15:10 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:40:9
+Tue, 19 Apr 2016 09:15:10 GMT express-session deprecated req.secret; provide secret option at app.js:40:9
+Port 3000 is already in use
+Tue, 19 Apr 2016 09:24:17 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at app.js:32:9
+Tue, 19 Apr 2016 09:24:17 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
+Tue, 19 Apr 2016 09:24:17 GMT express-session deprecated undefined resave option; provide resave option at app.js:40:9
+Tue, 19 Apr 2016 09:24:17 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:40:9
+Tue, 19 Apr 2016 09:24:17 GMT express-session deprecated req.secret; provide secret option at app.js:40:9
+Port 3000 is already in use
+Tue, 19 Apr 2016 09:37:16 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at app.js:32:9
+Tue, 19 Apr 2016 09:37:16 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
+Tue, 19 Apr 2016 09:37:16 GMT express-session deprecated undefined resave option; provide resave option at app.js:40:9
+Tue, 19 Apr 2016 09:37:16 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:40:9
+Tue, 19 Apr 2016 09:37:16 GMT express-session deprecated req.secret; provide secret option at app.js:40:9
+Listening on port 8080
+[0mGET / [36m304 [0m18.297 ms - -[0m
+[0mGET /css/bootstrap/bootstrap.min.css [36m304 [0m23.822 ms - -[0m
+[0mGET /css/jquery-ui/jquery-ui.min.css [36m304 [0m24.947 ms - -[0m
+[0mGET /css/main.css [36m304 [0m24.540 ms - -[0m
+[0mGET /js/jquery/jquery.min.js [36m304 [0m24.055 ms - -[0m
+[0mGET /js/jquery-debounce-throttle.js [36m304 [0m21.630 ms - -[0m
+[0mGET /js/jquery-blockUI/jquery.blockUI.js [36m304 [0m21.252 ms - -[0m
+[0mGET /js/bootstrap/bootstrap.min.js [36m304 [0m20.434 ms - -[0m
+[0mGET /js/jquery-ui/jquery-ui.min.js [36m304 [0m21.363 ms - -[0m
+[0mGET /js/jquery-ui/datepicker-cn.js [36m304 [0m21.063 ms - -[0m
+[0mGET /js/react/react.min.js [36m304 [0m21.686 ms - -[0m
+[0mGET /js/util/cookie.js [36m304 [0m15.309 ms - -[0m
+[0mGET /js/util/helper.js [36m304 [0m14.845 ms - -[0m
+[0mGET /js/highcharts/highcharts.js [36m304 [0m12.050 ms - -[0m
+[0mGET /js/react/JSXTransformer.js [36m304 [0m4.441 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m4.071 ms - -[0m
+[0mGET /img/bg5.jpg [36m304 [0m2.924 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m1.416 ms - -[0m
+[0mGET / [36m304 [0m1.678 ms - -[0m
+[0mGET /css/bootstrap/bootstrap.min.css [36m304 [0m8.363 ms - -[0m
+[0mGET /css/jquery-ui/jquery-ui.min.css [36m304 [0m9.136 ms - -[0m
+[0mGET /css/main.css [36m304 [0m6.255 ms - -[0m
+[0mGET /js/jquery/jquery.min.js [36m304 [0m5.011 ms - -[0m
+[0mGET /js/jquery-debounce-throttle.js [36m304 [0m4.254 ms - -[0m
+[0mGET /js/jquery-blockUI/jquery.blockUI.js [36m304 [0m3.540 ms - -[0m
+[0mGET /js/bootstrap/bootstrap.min.js [36m304 [0m2.510 ms - -[0m
+[0mGET /js/jquery-ui/jquery-ui.min.js [36m304 [0m2.321 ms - -[0m
+[0mGET /js/jquery-ui/datepicker-cn.js [36m304 [0m1.899 ms - -[0m
+[0mGET /js/react/react.min.js [36m304 [0m1.922 ms - -[0m
+[0mGET /js/util/cookie.js [36m304 [0m1.782 ms - -[0m
+[0mGET /js/util/helper.js [36m304 [0m1.552 ms - -[0m
+[0mGET /js/highcharts/highcharts.js [36m304 [0m2.724 ms - -[0m
+[0mGET /js/react/JSXTransformer.js [36m304 [0m4.488 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m3.037 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m1.314 ms - -[0m
+[0mGET / [36m304 [0m1.528 ms - -[0m
+[0mGET /css/bootstrap/bootstrap.min.css [36m304 [0m1.371 ms - -[0m
+[0mGET /css/jquery-ui/jquery-ui.min.css [36m304 [0m0.990 ms - -[0m
+[0mGET /css/main.css [36m304 [0m1.656 ms - -[0m
+[0mGET /js/jquery/jquery.min.js [36m304 [0m1.123 ms - -[0m
+[0mGET /js/jquery-debounce-throttle.js [36m304 [0m1.294 ms - -[0m
+[0mGET /js/jquery-blockUI/jquery.blockUI.js [36m304 [0m2.122 ms - -[0m
+[0mGET /js/bootstrap/bootstrap.min.js [36m304 [0m6.804 ms - -[0m
+[0mGET /js/jquery-ui/jquery-ui.min.js [36m304 [0m6.868 ms - -[0m
+[0mGET /js/jquery-ui/datepicker-cn.js [36m304 [0m6.518 ms - -[0m
+[0mGET /js/react/react.min.js [36m304 [0m4.696 ms - -[0m
+[0mGET /js/util/cookie.js [36m304 [0m1.758 ms - -[0m
+[0mGET /js/util/helper.js [36m304 [0m3.796 ms - -[0m
+[0mGET /js/highcharts/highcharts.js [36m304 [0m5.501 ms - -[0m
+[0mGET /js/react/JSXTransformer.js [36m304 [0m5.205 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m4.145 ms - -[0m
+[0mGET /img/bg5.jpg [36m304 [0m0.948 ms - -[0m
+[0mGET /js/react/react.min.js [36m304 [0m1.092 ms - -[0m
+[0mGET /js/util/cookie.js [36m304 [0m1.160 ms - -[0m
+[0mGET /js/highcharts/highcharts.js [36m304 [0m0.902 ms - -[0m
+[0mGET /js/react/JSXTransformer.js [36m304 [0m1.221 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m1.433 ms - -[0m
+[0mGET / [36m304 [0m1.609 ms - -[0m
+[0mGET /css/bootstrap/bootstrap.min.css [36m304 [0m4.115 ms - -[0m
+[0mGET /css/jquery-ui/jquery-ui.min.css [36m304 [0m3.943 ms - -[0m
+[0mGET /css/main.css [36m304 [0m2.284 ms - -[0m
+[0mGET /js/jquery/jquery.min.js [36m304 [0m2.132 ms - -[0m
+[0mGET /js/jquery-debounce-throttle.js [36m304 [0m6.527 ms - -[0m
+[0mGET /js/jquery-blockUI/jquery.blockUI.js [36m304 [0m2.177 ms - -[0m
+[0mGET /js/bootstrap/bootstrap.min.js [36m304 [0m3.770 ms - -[0m
+[0mGET /js/jquery-ui/jquery-ui.min.js [36m304 [0m3.681 ms - -[0m
+[0mGET /js/jquery-ui/datepicker-cn.js [36m304 [0m5.870 ms - -[0m
+[0mGET /js/react/react.min.js [36m304 [0m5.476 ms - -[0m
+[0mGET /js/util/cookie.js [36m304 [0m4.656 ms - -[0m
+[0mGET /js/util/helper.js [36m304 [0m4.275 ms - -[0m
+[0mGET /js/highcharts/highcharts.js [36m304 [0m3.948 ms - -[0m
+[0mGET /js/react/JSXTransformer.js [36m304 [0m2.101 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m1.360 ms - -[0m
+[0mGET /img/bg5.jpg [36m304 [0m0.996 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m1.277 ms - -[0m
+[0mGET / [36m304 [0m3.011 ms - -[0m
+[0mGET /css/bootstrap/bootstrap.min.css [36m304 [0m3.513 ms - -[0m
+[0mGET /css/jquery-ui/jquery-ui.min.css [36m304 [0m3.615 ms - -[0m
+[0mGET /css/main.css [36m304 [0m4.075 ms - -[0m
+[0mGET /js/jquery/jquery.min.js [36m304 [0m3.318 ms - -[0m
+[0mGET /js/jquery-debounce-throttle.js [36m304 [0m1.333 ms - -[0m
+[0mGET /js/jquery-blockUI/jquery.blockUI.js [36m304 [0m0.976 ms - -[0m
+[0mGET /js/bootstrap/bootstrap.min.js [36m304 [0m0.866 ms - -[0m
+[0mGET /js/jquery-ui/jquery-ui.min.js [36m304 [0m1.347 ms - -[0m
+[0mGET /js/jquery-ui/datepicker-cn.js [36m304 [0m12.387 ms - -[0m
+[0mGET /js/react/react.min.js [36m304 [0m12.091 ms - -[0m
+[0mGET /js/util/cookie.js [36m304 [0m11.788 ms - -[0m
+[0mGET /js/util/helper.js [36m304 [0m11.502 ms - -[0m
+[0mGET /js/highcharts/highcharts.js [36m304 [0m11.212 ms - -[0m
+[0mGET /js/react/JSXTransformer.js [36m304 [0m10.920 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m0.937 ms - -[0m
+[0mGET /img/bg5.jpg [36m304 [0m0.794 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m2.822 ms - -[0m
+[0mGET / [36m304 [0m1.449 ms - -[0m
+[0mGET /css/bootstrap/bootstrap.min.css [36m304 [0m8.733 ms - -[0m
+[0mGET /css/jquery-ui/jquery-ui.min.css [36m304 [0m8.377 ms - -[0m
+[0mGET /css/main.css [36m304 [0m8.131 ms - -[0m
+[0mGET /js/jquery/jquery.min.js [36m304 [0m2.522 ms - -[0m
+[0mGET /js/jquery-debounce-throttle.js [36m304 [0m2.264 ms - -[0m
+[0mGET /js/jquery-blockUI/jquery.blockUI.js [36m304 [0m1.087 ms - -[0m
+[0mGET /js/bootstrap/bootstrap.min.js [36m304 [0m0.863 ms - -[0m
+[0mGET /js/jquery-ui/jquery-ui.min.js [36m304 [0m0.817 ms - -[0m
+[0mGET /js/jquery-ui/datepicker-cn.js [36m304 [0m0.897 ms - -[0m
+[0mGET /js/react/react.min.js [36m304 [0m0.778 ms - -[0m
+[0mGET /js/util/cookie.js [36m304 [0m0.773 ms - -[0m
+[0mGET /js/util/helper.js [36m304 [0m0.825 ms - -[0m
+[0mGET /js/highcharts/highcharts.js [36m304 [0m1.279 ms - -[0m
+[0mGET /js/react/JSXTransformer.js [36m304 [0m0.812 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m0.838 ms - -[0m
+[0mGET /img/bg5.jpg [36m304 [0m0.847 ms - -[0m
+[0mGET /js/bootstrap/bootstrap.min.js [36m304 [0m1.268 ms - -[0m
+[0mGET /js/jquery-ui/jquery-ui.min.js [36m304 [0m1.180 ms - -[0m
+[0mGET /js/react/react.min.js [36m304 [0m1.105 ms - -[0m
+[0mGET /js/highcharts/highcharts.js [36m304 [0m1.305 ms - -[0m
+[0mGET /js/react/JSXTransformer.js [36m304 [0m1.228 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m1.168 ms - -[0m
+[0mGET / [36m304 [0m1.340 ms - -[0m
+[0mGET /css/bootstrap/bootstrap.min.css [36m304 [0m4.625 ms - -[0m
+[0mGET /css/jquery-ui/jquery-ui.min.css [36m304 [0m3.427 ms - -[0m
+[0mGET /css/main.css [36m304 [0m3.395 ms - -[0m
+[0mGET /js/jquery/jquery.min.js [36m304 [0m4.774 ms - -[0m
+[0mGET /js/jquery-debounce-throttle.js [36m304 [0m1.347 ms - -[0m
+[0mGET /js/jquery-blockUI/jquery.blockUI.js [36m304 [0m0.805 ms - -[0m
+[0mGET /js/bootstrap/bootstrap.min.js [36m304 [0m0.978 ms - -[0m
+[0mGET /js/jquery-ui/jquery-ui.min.js [36m304 [0m3.865 ms - -[0m
+[0mGET /js/jquery-ui/datepicker-cn.js [36m304 [0m3.539 ms - -[0m
+[0mGET /js/react/react.min.js [36m304 [0m45.848 ms - -[0m
+[0mGET /js/util/cookie.js [36m304 [0m43.530 ms - -[0m
+[0mGET /js/util/helper.js [36m304 [0m42.073 ms - -[0m
+[0mGET /js/highcharts/highcharts.js [36m304 [0m41.521 ms - -[0m
+[0mGET /js/react/JSXTransformer.js [36m304 [0m33.126 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m29.868 ms - -[0m
+[0mGET /js/bootstrap/bootstrap.min.js [36m304 [0m20.096 ms - -[0m
+[0mGET /img/bg5.jpg [36m304 [0m1.024 ms - -[0m
+[0mGET /js/jquery-ui/jquery-ui.min.js [36m304 [0m0.817 ms - -[0m
+[0mGET /js/react/react.min.js [36m304 [0m1.077 ms - -[0m
+[0mGET /js/highcharts/highcharts.js [36m304 [0m1.147 ms - -[0m
+[0mGET /js/react/JSXTransformer.js [36m304 [0m0.921 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m1.191 ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m7.431 ms - 2732[0m
+[0mGET / [36m304 [0m3.104 ms - -[0m
+[0mGET /css/bootstrap/bootstrap.min.css [36m304 [0m1.304 ms - -[0m
+[0mGET /css/jquery-ui/jquery-ui.min.css [36m304 [0m0.797 ms - -[0m
+[0mGET /css/main.css [36m304 [0m0.762 ms - -[0m
+[0mGET /js/jquery/jquery.min.js [36m304 [0m0.869 ms - -[0m
+[0mGET /js/jquery-debounce-throttle.js [36m304 [0m4.872 ms - -[0m
+[0mGET /js/jquery-blockUI/jquery.blockUI.js [36m304 [0m2.935 ms - -[0m
+[0mGET /js/bootstrap/bootstrap.min.js [36m304 [0m1.597 ms - -[0m
+[0mGET /js/jquery-ui/jquery-ui.min.js [36m304 [0m1.360 ms - -[0m
+[0mGET /js/jquery-ui/datepicker-cn.js [36m304 [0m0.830 ms - -[0m
+[0mGET /js/react/react.min.js [36m304 [0m0.762 ms - -[0m
+[0mGET /js/util/cookie.js [36m304 [0m0.874 ms - -[0m
+[0mGET /js/util/helper.js [36m304 [0m3.549 ms - -[0m
+[0mGET /js/highcharts/highcharts.js [36m304 [0m2.453 ms - -[0m
+[0mGET /js/react/JSXTransformer.js [36m304 [0m2.163 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m0.939 ms - -[0m
+[0mGET /img/bg5.jpg [36m304 [0m1.241 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m1.305 ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3466272958278776 [0m- [0m- ms - -[0m
+{ userName: 'lilieming', password: 'lilieming' }
+not right
+[0mPOST /login [32m200 [0m42.410 ms - 67[0m
+{ userName: 'lilieming', password: 'lilieming' }
+not right
+[0mPOST /login [32m200 [0m5.662 ms - 67[0m
+invalid "expiresIn" option for string payload
+[0mPOST /register [32m200 [0m41.104 ms - 100[0m
+{ userName: 'lilieming', password: 'lilieming' }
+ok
+[0mPOST /login [32m200 [0m3.834 ms - 134[0m
+[0mGET /monthHistory? [32m200 [0m7.924 ms - 97[0m
+[0mGET /accountDetail? [32m200 [0m6.048 ms - 237[0m
+null
+10 0 { limit: '10', offset: '0' }
+{}
+0
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m4.882 ms - 24[0m
+{ userName: 'lilieming', password: 'lilieming' }
+ok
+[0mPOST /login [32m200 [0m2.159 ms - 134[0m
+[0mGET /accountDetail? [32m200 [0m10.353 ms - 237[0m
+{ userName: 'lilieming',
+  monthHistory: {},
+  _id: 571604deb917615501620b2f }
+[0mGET /monthHistory? [32m200 [0m11.208 ms - 24[0m
+10 0 { limit: '10', offset: '0' }
+{}
+0
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m10.924 ms - 24[0m
+10 0 { limit: '10', offset: '0' }
+{}
+0
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.412 ms - 24[0m
+[0mGET /accountDetail? [32m200 [0m3.206 ms - 237[0m
+userName lilieming
+[] result is 
+[0mPUT /moneyDetail [32m200 [0m15.078 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[] result is 
+[0mPUT /moneyDetail [32m200 [0m6.176 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+10 0 { limit: '10', offset: '0' }
+{ '2016-04-19': 
+   [ { date: '2016-04-19',
+       label: 'hhh',
+       money: 45,
+       note: '',
+       isIncome: true,
+       detail: [],
+       userName: 'lilieming',
+       modifyTime: 1461060875428,
+       _id: [Object] },
+     { date: '2016-04-19',
+       label: 'test',
+       money: 12,
+       note: '',
+       isIncome: false,
+       detail: [],
+       userName: 'lilieming',
+       modifyTime: 1461060867946,
+       _id: [Object] } ] }
+1
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.244 ms - 363[0m
+[0mGET /accountDetail? [32m200 [0m3.029 ms - 240[0m
+{ userName: 'lilieming', password: 'lilieming' }
+ok
+[0mPOST /login [32m200 [0m2.425 ms - 134[0m
+[0mGET /accountDetail? [32m200 [0m9.889 ms - 240[0m
+10 0 { limit: '10', offset: '0' }
+{ '2016-04-19': 
+   [ { date: '2016-04-19',
+       label: 'hhh',
+       money: 45,
+       note: '',
+       isIncome: true,
+       detail: [],
+       userName: 'lilieming',
+       modifyTime: 1461060875428,
+       _id: [Object] },
+     { date: '2016-04-19',
+       label: 'test',
+       money: 12,
+       note: '',
+       isIncome: false,
+       detail: [],
+       userName: 'lilieming',
+       modifyTime: 1461060867946,
+       _id: [Object] } ] }
+1
+{ userName: 'lilieming',
+  monthHistory: {},
+  _id: 571604deb917615501620b2f }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m10.946 ms - 363[0m
+[0mGET /monthHistory? [32m200 [0m11.150 ms - 24[0m
+[0mPOST /monthPlan [32m200 [0m2.773 ms - 36[0m
+10 0 { limit: '10', offset: '0' }
+{ '2016-04-19': 
+   [ { date: '2016-04-19',
+       label: 'hhh',
+       money: 45,
+       note: '',
+       isIncome: true,
+       detail: [],
+       userName: 'lilieming',
+       modifyTime: 1461060875428,
+       _id: [Object] },
+     { date: '2016-04-19',
+       label: 'test',
+       money: 12,
+       note: '',
+       isIncome: false,
+       detail: [],
+       userName: 'lilieming',
+       modifyTime: 1461060867946,
+       _id: [Object] } ] }
+1
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m11.949 ms - 363[0m
+[0mGET /accountDetail? [32m200 [0m4.488 ms - 243[0m
+10 0 { limit: '10', offset: '0' }
+{ '2016-04-19': 
+   [ { date: '2016-04-19',
+       label: 'hhh',
+       money: 45,
+       note: '',
+       isIncome: true,
+       detail: [],
+       userName: 'lilieming',
+       modifyTime: 1461060875428,
+       _id: [Object] },
+     { date: '2016-04-19',
+       label: 'test',
+       money: 12,
+       note: '',
+       isIncome: false,
+       detail: [],
+       userName: 'lilieming',
+       modifyTime: 1461060867946,
+       _id: [Object] } ] }
+1
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.746 ms - 363[0m
+[0mGET /accountDetail? [32m200 [0m5.907 ms - 243[0m
+10 0 { limit: '10', offset: '0' }
+{ '2016-04-19': 
+   [ { date: '2016-04-19',
+       label: 'hhh',
+       money: 45,
+       note: '',
+       isIncome: true,
+       detail: [],
+       userName: 'lilieming',
+       modifyTime: 1461060875428,
+       _id: [Object] },
+     { date: '2016-04-19',
+       label: 'test',
+       money: 12,
+       note: '',
+       isIncome: false,
+       detail: [],
+       userName: 'lilieming',
+       modifyTime: 1461060867946,
+       _id: [Object] } ] }
+1
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m4.527 ms - 363[0m
+[0mGET /accountDetail? [32m200 [0m2.951 ms - 243[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m7.636 ms - 2732[0m
+Tue, 19 Apr 2016 10:39:47 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at app.js:32:9
+Tue, 19 Apr 2016 10:39:47 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
+Tue, 19 Apr 2016 10:39:47 GMT express-session deprecated undefined resave option; provide resave option at app.js:40:9
+Tue, 19 Apr 2016 10:39:47 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:40:9
+Tue, 19 Apr 2016 10:39:47 GMT express-session deprecated req.secret; provide secret option at app.js:40:9
+Listening on port 8080
+[0mGET / [36m304 [0m18.709 ms - -[0m
+[0mGET /css/bootstrap/bootstrap.min.css [36m304 [0m7.364 ms - -[0m
+[0mGET /css/jquery-ui/jquery-ui.min.css [36m304 [0m5.959 ms - -[0m
+[0mGET /css/main.css [36m304 [0m5.366 ms - -[0m
+[0mGET /js/jquery/jquery.min.js [36m304 [0m0.997 ms - -[0m
+[0mGET /js/jquery-debounce-throttle.js [36m304 [0m1.937 ms - -[0m
+[0mGET /js/jquery-blockUI/jquery.blockUI.js [36m304 [0m4.508 ms - -[0m
+[0mGET /js/bootstrap/bootstrap.min.js [36m304 [0m9.039 ms - -[0m
+[0mGET /js/jquery-ui/jquery-ui.min.js [36m304 [0m9.338 ms - -[0m
+[0mGET /js/jquery-ui/datepicker-cn.js [36m304 [0m8.939 ms - -[0m
+[0mGET /js/react/react.min.js [36m304 [0m4.803 ms - -[0m
+[0mGET /js/util/cookie.js [36m304 [0m4.368 ms - -[0m
+[0mGET /js/util/helper.js [36m304 [0m3.984 ms - -[0m
+[0mGET /js/highcharts/highcharts.js [36m304 [0m1.120 ms - -[0m
+[0mGET /js/react/JSXTransformer.js [36m304 [0m1.334 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m1.094 ms - -[0m
+[0mGET /img/bg5.jpg [36m304 [0m2.733 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m1.623 ms - -[0m
+30 seconds later send the first backup email
+Fri, 27 May 2016 12:56:26 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at app.js:34:9
+Fri, 27 May 2016 12:56:26 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
+Fri, 27 May 2016 12:56:27 GMT express-session deprecated undefined resave option; provide resave option at app.js:42:9
+Fri, 27 May 2016 12:56:27 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:42:9
+Fri, 27 May 2016 12:56:27 GMT express-session deprecated req.secret; provide secret option at app.js:42:9
+Listening on port 8080
+/app/money/node_modules/mongodb/lib/utils.js:97
+    process.nextTick(function() { throw err; });
+                                        ^
+TypeError: Cannot read property '_id' of undefined
+    at /app/money/routes/account.js:12:17
+    at /app/money/module/db.js:32:5
+    at handleCallback (/app/money/node_modules/mongodb/lib/utils.js:95:12)
+    at /app/money/node_modules/mongodb/lib/cursor.js:688:16
+    at handleCallback (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js:249:5)
+    at setCursorNotified (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js:458:3)
+    at /app/money/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js:561:16
+    at queryCallback (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js:225:5)
+    at Callbacks.emit (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/server.js:95:3)
+    at null.messageHandler (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/server.js:246:23)
+30 seconds later send the first backup email
+Fri, 27 May 2016 12:57:14 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at app.js:34:9
+Fri, 27 May 2016 12:57:14 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
+Fri, 27 May 2016 12:57:14 GMT express-session deprecated undefined resave option; provide resave option at app.js:42:9
+Fri, 27 May 2016 12:57:14 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:42:9
+Fri, 27 May 2016 12:57:14 GMT express-session deprecated req.secret; provide secret option at app.js:42:9
+Listening on port 8080
+/app/money/node_modules/mongodb/lib/utils.js:97
+    process.nextTick(function() { throw err; });
+                                        ^
+TypeError: Cannot read property '_id' of undefined
+    at /app/money/routes/account.js:12:17
+    at /app/money/module/db.js:32:5
+    at handleCallback (/app/money/node_modules/mongodb/lib/utils.js:95:12)
+    at /app/money/node_modules/mongodb/lib/cursor.js:688:16
+    at handleCallback (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js:249:5)
+    at setCursorNotified (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js:458:3)
+    at /app/money/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js:561:16
+    at queryCallback (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js:225:5)
+    at Callbacks.emit (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/server.js:95:3)
+    at null.messageHandler (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/server.js:246:23)
+30 seconds later send the first backup email
+Fri, 27 May 2016 12:59:53 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at app.js:34:9
+Fri, 27 May 2016 12:59:53 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
+Fri, 27 May 2016 12:59:53 GMT express-session deprecated undefined resave option; provide resave option at app.js:42:9
+Fri, 27 May 2016 12:59:53 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:42:9
+Fri, 27 May 2016 12:59:53 GMT express-session deprecated req.secret; provide secret option at app.js:42:9
+Listening on port 8080
+[0mGET /accountDetail? [32m200 [0m27.702 ms - 277[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m15.265 ms - 4731[0m
+[0mGET /accountDetail? [32m200 [0m7.328 ms - 277[0m
+[0mGET /accountDetail? [32m200 [0m5.353 ms - 277[0m
+task begin
+bakcup  data length is: undefined
+user colour.hu  has no data
+userName lilieming
+[{"userName":"lilieming","label":"打车","modifyTime":1464269350334,"count":3,"_id":"5728a99a1efc4003029eddfa"}] result is 
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mPUT /moneyDetail [32m200 [0m34.144 ms - 36[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m25.448 ms - 4557[0m
+userName lilieming
+[{"userName":"lilieming","label":"早餐","modifyTime":1464269356063,"count":16,"_id":"571793131efc4003029eddbf"}] result is 
+[0mPUT /moneyDetail [32m200 [0m9.631 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m25.104 ms - 4728[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m10.479 ms - 4728[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6383866452655674 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m6.154 ms - 2732[0m
+[0mGET /css/jquery-ui/jquery-ui.min.css [32m200 [0m2.144 ms - 30118[0m
+[0mGET /css/bootstrap/bootstrap.min.css [32m200 [0m4.681 ms - 122540[0m
+[0mGET /css/main.css [32m200 [0m5.971 ms - 1516[0m
+[0mGET /js/jquery/jquery.min.js [32m200 [0m3.843 ms - 95957[0m
+[0mGET /js/jquery-debounce-throttle.js [32m200 [0m3.307 ms - 10253[0m
+[0mGET /js/jquery-blockUI/jquery.blockUI.js [32m200 [0m3.952 ms - 19966[0m
+[0mGET /js/bootstrap/bootstrap.min.js [32m200 [0m7.243 ms - 36816[0m
+[0mGET /js/jquery-ui/datepicker-cn.js [32m200 [0m9.445 ms - 1241[0m
+[0mGET /js/util/cookie.js [32m200 [0m6.332 ms - 1389[0m
+[0mGET /js/jquery-ui/jquery-ui.min.js [32m200 [0m23.562 ms - 240427[0m
+[0mGET /js/react/react.min.js [32m200 [0m9.328 ms - 121738[0m
+[0mGET /js/util/helper.js [32m200 [0m1.703 ms - 266[0m
+[0mGET /js/src/index.js [32m200 [0m1.847 ms - 29747[0m
+[0mGET /js/highcharts/highcharts.js [32m200 [0m3.444 ms - 168540[0m
+[0mGET /js/jquery-ui/jquery-ui.min.js [36m304 [0m4.335 ms - -[0m
+[0mGET /img/bg5.jpg [32m200 [0m3.394 ms - 398423[0m
+[0mGET /js/react/JSXTransformer.js [32m200 [0m2.064 ms - 493024[0m
+[0mGET /js/src/index.js [36m304 [0m8.080 ms - -[0m
+[0mGET / [36m304 [0m3.017 ms - -[0m
+[0mGET /css/bootstrap/bootstrap.min.css [36m304 [0m3.425 ms - -[0m
+[0mGET /css/jquery-ui/jquery-ui.min.css [36m304 [0m2.888 ms - -[0m
+[0mGET /css/main.css [36m304 [0m6.498 ms - -[0m
+[0mGET /js/jquery/jquery.min.js [36m304 [0m7.329 ms - -[0m
+[0mGET /js/jquery-debounce-throttle.js [36m304 [0m8.289 ms - -[0m
+[0mGET /js/jquery-blockUI/jquery.blockUI.js [36m304 [0m8.624 ms - -[0m
+[0mGET /js/bootstrap/bootstrap.min.js [36m304 [0m7.652 ms - -[0m
+[0mGET /js/jquery-ui/jquery-ui.min.js [36m304 [0m7.191 ms - -[0m
+[0mGET /js/jquery-ui/datepicker-cn.js [36m304 [0m5.070 ms - -[0m
+[0mGET /js/react/react.min.js [36m304 [0m3.634 ms - -[0m
+[0mGET /js/util/cookie.js [36m304 [0m2.776 ms - -[0m
+[0mGET /js/util/helper.js [36m304 [0m1.834 ms - -[0m
+[0mGET /js/highcharts/highcharts.js [36m304 [0m1.002 ms - -[0m
+[0mGET /js/react/JSXTransformer.js [36m304 [0m0.817 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m1.644 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m1.976 ms - -[0m
+[0mGET / [36m304 [0m1.920 ms - -[0m
+[0mGET /css/bootstrap/bootstrap.min.css [36m304 [0m1.702 ms - -[0m
+[0mGET /css/jquery-ui/jquery-ui.min.css [36m304 [0m0.842 ms - -[0m
+[0mGET /css/main.css [36m304 [0m0.791 ms - -[0m
+[0mGET /js/jquery/jquery.min.js [36m304 [0m1.251 ms - -[0m
+[0mGET /js/jquery-debounce-throttle.js [36m304 [0m1.315 ms - -[0m
+[0mGET /js/jquery-blockUI/jquery.blockUI.js [36m304 [0m0.855 ms - -[0m
+[0mGET /js/bootstrap/bootstrap.min.js [36m304 [0m0.884 ms - -[0m
+[0mGET /js/jquery-ui/jquery-ui.min.js [36m304 [0m0.825 ms - -[0m
+[0mGET /js/jquery-ui/datepicker-cn.js [36m304 [0m2.863 ms - -[0m
+[0mGET /js/react/react.min.js [36m304 [0m5.999 ms - -[0m
+[0mGET /js/util/cookie.js [36m304 [0m5.737 ms - -[0m
+[0mGET /js/highcharts/highcharts.js [36m304 [0m8.684 ms - -[0m
+[0mGET /js/react/JSXTransformer.js [36m304 [0m7.304 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m6.917 ms - -[0m
+[0mGET /js/util/helper.js [36m304 [0m5.898 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m1.253 ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m3.754 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3439175533193644 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8088859001368091 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m6.981 ms - 2732[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m5.073 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8212514442388849 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0623930250179547 [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9660458923702117 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8601515532373774 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://testp3.pospr.waw.pl/testproxy.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /jmx-console/HtmlAdaptor [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2835482550089629 [0m- [0m- ms - -[0m
+[0mGET http://httpheader.net/ [32m200 [0m4.911 ms - 2732[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7676579384688204 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://httpheader.net/ [32m200 [0m7.349 ms - 2732[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5476409032824174 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET http://119.90.40.16:8090/ [32m200 [0m3.586 ms - 2732[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6763112149594355 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://123.125.114.238/ [32m200 [0m8.022 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2070231289419032 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2236327440886432 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET http://www.baidu.com/ [32m200 [0m6.178 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5716148315932994 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0449466580634160 [0m- [0m- ms - -[0m
+[0mGET /accountDetail? [32m200 [0m25.291 ms - 278[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m6.809 ms - 4728[0m
+[0mGET /monthHistory? [32m200 [0m5.893 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m14.871 ms - 4788[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3480656490205502 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3847905957119005 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET /accountDetail? [32m200 [0m20.768 ms - 278[0m
+userName lilieming
+[{"userName":"lilieming","label":"超市","modifyTime":1464269368366,"count":27,"_id":"5717935b1efc4003029eddc1"}] result is 
+null
+[0mPUT /moneyDetail [32m200 [0m19.798 ms - 36[0m
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m17.187 ms - 4383[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m7.885 ms - 5080[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0957044274930560 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4601872174733208 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9050772314167962 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3871397872509468 [0m- [0m- ms - -[0m
+task begin
+user colour.hu  has no data
+bakcup  data length is: undefined
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4609899982345168 [0m- [0m- ms - -[0m
+[0mGET /monthHistory? [32m200 [0m23.327 ms - 137[0m
+[0mGET /accountDetail? [32m200 [0m20.712 ms - 278[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m23.064 ms - 4383[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.542 ms - 5080[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.525 ms - 4383[0m
+userName lilieming
+[{"userName":"lilieming","label":"打车","modifyTime":1464354030032,"count":4,"_id":"5728a99a1efc4003029eddfa"}] result is 
+[0mPUT /moneyDetail [32m200 [0m6.617 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /accountDetail? [32m200 [0m2.860 ms - 277[0m
+[0mGET /accountDetail? [32m200 [0m2.849 ms - 277[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m6.282 ms - 4556[0m
+[0mGET /accountDetail? [32m200 [0m2.747 ms - 277[0m
+[0mGET /accountDetail? [32m200 [0m2.865 ms - 277[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.458 ms - 4556[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.mafengwo.cn/ [32m200 [0m8.069 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8644723294536179 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3296183591471781 [0m- [0m- ms - -[0m
+Not Found
+Not Found
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m2.582 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1267014098085438 [0m- [0m- ms - -[0m
+[0mGET http://123.125.114.238/ [32m200 [0m1.682 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9423409747212643 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m6.151 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7049205466188293 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m5.313 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7563417953545209 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m2.283 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0383316033278189 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3124939657171327 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m6.703 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m2.956 ms - 2732[0m
+Not Found
+[0mGET http://testp1.piwo.pila.pl/testproxy.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9344404349675297 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m8.941 ms - 2732[0m
+[0mGET / [32m200 [0m1.394 ms - 2732[0m
+[0mGET / [32m200 [0m1.600 ms - 2732[0m
+[0mGET / [32m200 [0m1.276 ms - 2732[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m17.004 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0624707243396524 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m3.092 ms - 2732[0m
+[0mGET http://123.125.114.238/ [32m200 [0m1.424 ms - 2732[0m
+Not Found
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8101088936260489 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m7.555 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4999283202228184 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET //jmx-console/HtmlAdaptor [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m5.476 ms - 2732[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.838 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8316379876996837 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m14.084 ms - 2732[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.qyer.com/ [32m200 [0m11.447 ms - 2732[0m
+[0mGET http://www.elong.com/ [32m200 [0m1.477 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6866895828019075 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m1.410 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET http://www.izhongsai.com/ [32m200 [0m3.613 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8169435552885427 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m17.026 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1780135177030577 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /accountDetail? [32m200 [0m25.335 ms - 277[0m
+[0mGET /monthHistory? [32m200 [0m21.847 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m24.318 ms - 4556[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.937 ms - 5080[0m
+userName lilieming
+[{"userName":"lilieming","label":"超市","modifyTime":1464424047891,"count":28,"_id":"5717935b1efc4003029eddc1"}] result is 
+[0mPUT /moneyDetail [32m200 [0m6.967 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[{"userName":"lilieming","label":"鱼","modifyTime":1462590470880,"count":1,"_id":"572d5c061efc4003029ede09"}] result is 
+[0mPUT /moneyDetail [32m200 [0m4.904 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3614312712852279 [0m- [0m- ms - -[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.571 ms - 4553[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.530 ms - 5058[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5195808172350543 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.mafengwo.cn/ [32m200 [0m6.027 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m6.997 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0666150043542243 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+task begin
+bakcup  data length is: undefined
+user colour.hu  has no data
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m3.409 ms - 2732[0m
+Not Found
+Not Found
+[0mGET /sitemap.xml [0m- [0m- ms - -[0m
+[0mGET /robots.txt [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6428341157795874 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m4.563 ms - 2732[0m
+[0mGET /accountDetail? [32m200 [0m20.298 ms - 277[0m
+[0mGET /monthHistory? [32m200 [0m22.918 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m21.933 ms - 4553[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.727 ms - 5058[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.460 ms - 4553[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m11.153 ms - 2732[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4259246858069818 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET /accountDetail? [32m200 [0m17.056 ms - 277[0m
+[0mGET /monthHistory? [32m200 [0m18.467 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m25.390 ms - 4553[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m9.714 ms - 5058[0m
+userName lilieming
+[] result is 
+[0mPUT /moneyDetail [32m200 [0m6.524 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[] result is 
+[0mPUT /moneyDetail [32m200 [0m12.225 ms - 36[0m
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+null
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.700 ms - 4905[0m
+[0mGET /accountDetail? [32m200 [0m2.813 ms - 277[0m
+[0mGET /accountDetail? [32m200 [0m2.647 ms - 277[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.403 ms - 4905[0m
+[0mGET /accountDetail? [32m200 [0m13.298 ms - 277[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.548 ms - 4905[0m
+[0mGET /accountDetail? [32m200 [0m2.623 ms - 277[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.830 ms - 4905[0m
+[0mGET /accountDetail? [32m200 [0m2.631 ms - 277[0m
+[0mGET /accountDetail? [32m200 [0m2.695 ms - 277[0m
+[0mGET /accountDetail? [32m200 [0m5.573 ms - 277[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.802 ms - 4905[0m
+[0mGET /accountDetail? [32m200 [0m3.133 ms - 277[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5412904535026141 [0m- [0m- ms - -[0m
+userName lilieming
+[] result is 
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+null
+[0mPUT /moneyDetail [32m200 [0m11.088 ms - 36[0m
+null
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m7.355 ms - 5154[0m
+[0mGET /accountDetail? [32m200 [0m2.845 ms - 277[0m
+[0mGET /accountDetail? [32m200 [0m2.752 ms - 277[0m
+[0mGET /accountDetail? [32m200 [0m2.936 ms - 277[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.336 ms - 5154[0m
+[0mGET /accountDetail? [32m200 [0m2.679 ms - 277[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://www.google.com/reader/about/ [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9896313714022235 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m8.549 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m2.913 ms - 2732[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m1.397 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8561225227736206 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m7.523 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m3.416 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0930578844196612 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://123.125.114.238/ [32m200 [0m7.499 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8504911488329099 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9220093525257627 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m5.011 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0398738256410622 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m11.435 ms - 2732[0m
+[0mGET / [32m200 [0m1.371 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5137293801231985 [0m- [0m- ms - -[0m
+[0mGET /accountDetail? [32m200 [0m22.334 ms - 277[0m
+[0mGET /monthHistory? [32m200 [0m30.993 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m27.405 ms - 5154[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7528309650307132 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4590709455272884 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m6.078 ms - 2732[0m
+Not Found
+Not Found
+[0mGET /sitemap.xml [0m- [0m- ms - -[0m
+[0mGET /robots.txt [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3080038107421100 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4439386531915745 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6997551909364065 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.ctrip.com/ [32m200 [0m8.920 ms - 2732[0m
+[0mGET http://www.elong.com/ [32m200 [0m1.452 ms - 2732[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m1.519 ms - 2732[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4453248089469425 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8723549666906724 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET http://123.125.114.238/ [32m200 [0m8.971 ms - 2732[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5767143387199767 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+[0mGET http://www.google.com/reader/about/ [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.example.com/ [32m200 [0m4.722 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5149469746938421 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m18.087 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0112584349902820 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m10.212 ms - 2732[0m
+task begin
+bakcup  data length is: undefined
+user colour.hu  has no data
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m3.230 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3357203876195834 [0m- [0m- ms - -[0m
+[0mGET /accountDetail? [32m200 [0m19.715 ms - 277[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m26.765 ms - 5154[0m
+[0mGET /monthHistory? [32m200 [0m23.817 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.471 ms - 5058[0m
+userName lilieming
+[{"userName":"lilieming","label":"超市","modifyTime":1464516117263,"count":29,"_id":"5717935b1efc4003029eddc1"}] result is 
+[0mPUT /moneyDetail [32m200 [0m6.100 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+Not Found
+userName lilieming
+[{"userName":"lilieming","label":"早饭","modifyTime":1463197059744,"count":4,"_id":"571640c91efc4003029eddba"}] result is 
+[0mPUT /moneyDetail [32m200 [0m6.777 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m6.713 ms - 5151[0m
+[0mGET /accountDetail? [32m200 [0m9.438 ms - 277[0m
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.697 ms - 5151[0m
+[0mGET /accountDetail? [32m200 [0m5.652 ms - 277[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5509181647636723 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9560639804536011 [0m- [0m- ms - -[0m
+[0mGET /accountDetail? [32m200 [0m27.296 ms - 277[0m
+[0mGET /monthHistory? [32m200 [0m17.621 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m20.653 ms - 5151[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.551 ms - 4892[0m
+userName lilieming
+[] result is 
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mPUT /moneyDetail [32m200 [0m16.275 ms - 36[0m
+null
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.620 ms - 5324[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8406717617635508 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m7.605 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7564166494083966 [0m- [0m- ms - -[0m
+[0mGET http://httpheader.net/ [32m200 [0m10.756 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1661538503566664 [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8751767276170023 [0m- [0m- ms - -[0m
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m5.904 ms - 2732[0m
+[0mGET / [32m200 [0m1.317 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4427131948486898 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.google.com/reader/about/ [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2573706866107575 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://testp1.piwo.pila.pl/testproxy.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0421824899127728 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /script [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.qunar.com/ [32m200 [0m11.162 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3066151188087550 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m37.477 ms - 5324[0m
+[0mGET /accountDetail? [32m200 [0m40.110 ms - 277[0m
+[0mGET /monthHistory? [32m200 [0m39.103 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.486 ms - 4892[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.411 ms - 5324[0m
+[0mGET / [32m200 [0m10.221 ms - 2732[0m
+[0mGET / [32m200 [0m1.470 ms - 2732[0m
+[0mGET / [32m200 [0m1.332 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4661177234291850 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m16.228 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8167440681999007 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m3.760 ms - 2732[0m
+[0mGET / [32m200 [0m1.375 ms - 2732[0m
+[0mGET / [32m200 [0m1.407 ms - 2732[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7018398767609857 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2019016171362649 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0078792416536727 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mHEAD / [32m200 [0m2.123 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8131407703459249 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1851320698591265 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7164641016700786 [0m- [0m- ms - -[0m
+[0mHEAD / [32m200 [0m4.099 ms - 2732[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0529518666078768 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+task begin
+user colour.hu  has no data
+bakcup  data length is: undefined
+[0mGET / [32m200 [0m2.237 ms - 2732[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6854090232089144 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m11.125 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m4.022 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8251848077568434 [0m- [0m- ms - -[0m
+[0mGET /accountDetail? [32m200 [0m25.334 ms - 277[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m28.560 ms - 5324[0m
+[0mGET /monthHistory? [32m200 [0m31.483 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.446 ms - 4892[0m
+userName lilieming
+[{"userName":"lilieming","label":"早饭","modifyTime":1464616373857,"count":5,"_id":"571640c91efc4003029eddba"}] result is 
+[0mPUT /moneyDetail [32m200 [0m10.504 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[{"userName":"lilieming","label":"超市","modifyTime":1464616362149,"count":30,"_id":"5717935b1efc4003029eddc1"}] result is 
+[0mPUT /moneyDetail [32m200 [0m5.306 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m6.368 ms - 5495[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.801 ms - 5495[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.661 ms - 5495[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2608607248955287 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m3.757 ms - 2732[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7553362958821069 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4252905289117176 [0m- [0m- ms - -[0m
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://testp4.pospr.waw.pl/testproxy.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m6.196 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6327843868199405 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7779065804411170 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m5.777 ms - 2732[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0983908108036259 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m7.386 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5453059612999680 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m4.041 ms - 2732[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5265632766473621 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3708610379248979 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m18.770 ms - 2732[0m
+[0mGET http://119.90.40.16:8090/ [32m200 [0m4.395 ms - 2732[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9140423523712124 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6968554523368607 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m4.556 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1773092571460695 [0m- [0m- ms - -[0m
+/app/money/node_modules/mongodb/lib/utils.js:97
+    process.nextTick(function() { throw err; });
+                                        ^
+TypeError: Cannot read property '_id' of undefined
+    at /app/money/routes/account.js:12:17
+    at /app/money/module/db.js:32:5
+    at handleCallback (/app/money/node_modules/mongodb/lib/utils.js:95:12)
+    at /app/money/node_modules/mongodb/lib/cursor.js:688:16
+    at handleCallback (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js:249:5)
+    at setCursorNotified (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js:458:3)
+    at /app/money/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js:561:16
+    at queryCallback (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js:225:5)
+    at Callbacks.emit (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/server.js:95:3)
+    at null.messageHandler (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/server.js:246:23)
+30 seconds later send the first backup email
+Wed, 01 Jun 2016 07:09:45 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at app.js:34:9
+Wed, 01 Jun 2016 07:09:45 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
+Wed, 01 Jun 2016 07:09:45 GMT express-session deprecated undefined resave option; provide resave option at app.js:42:9
+Wed, 01 Jun 2016 07:09:45 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:42:9
+Wed, 01 Jun 2016 07:09:45 GMT express-session deprecated req.secret; provide secret option at app.js:42:9
+Listening on port 8080
+[0mGET /accountDetail? [32m200 [0m26.610 ms - 257[0m
+[0mGET /accountDetail? [32m200 [0m7.904 ms - 257[0m
+[0mGET /accountDetail? [32m200 [0m6.911 ms - 257[0m
+[0mGET /accountDetail? [32m200 [0m15.571 ms - 257[0m
+[0mGET /monthHistory? [32m200 [0m18.506 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m35.096 ms - 5495[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m11.097 ms - 4016[0m
+task begin
+bakcup  data length is: undefined
+user colour.hu  has no data
+{ [Error: Greeting never received] code: 'ETIMEDOUT', errno: 'ETIMEDOUT', stage: 'connect' }
+{ userName: 'lilieming', password: 'lilieming' }
+ok
+[0mPOST /login [32m200 [0m18.983 ms - 134[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m16.848 ms - 5495[0m
+[0mGET /accountDetail? [32m200 [0m16.915 ms - 257[0m
+[0mGET /monthHistory? [32m200 [0m16.684 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m21.985 ms - 4016[0m
+Not Found
+[0mGET http://proxyjudge.us/ [32m200 [0m4.783 ms - 2732[0m
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET /monthHistory? [32m200 [0m21.967 ms - 137[0m
+[0mGET /monthHistory? [32m200 [0m22.525 ms - 137[0m
+[0mGET /accountDetail? [32m200 [0m22.051 ms - 257[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m24.876 ms - 5495[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m6.972 ms - 4016[0m
+userName lilieming
+[{"userName":"lilieming","label":"test","modifyTime":1461060867947,"count":1,"_id":"57160503b917615501620b31"}] result is 
+[0mPUT /moneyDetail [32m200 [0m27.969 ms - 36[0m
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+null
+null
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m22.155 ms - 5148[0m
+[0mGET /accountDetail? [32m200 [0m12.006 ms - 257[0m
+[0mGET /monthHistory? [32m200 [0m10.564 ms - 137[0m
+[0mGET /monthHistory? [32m200 [0m7.944 ms - 137[0m
+[0mGET /accountDetail? [32m200 [0m7.777 ms - 257[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m10.997 ms - 5148[0m
+2016-06-01
+_tempObj not exist  2016-06 { '2016-04': { monthIn: 8700, monthOut: 694.8000000000001 },
+  '2016-05': { monthIn: 10026, monthOut: 3562.0999999999995 } }
+[0mDELETE /moneyDetail [32m200 [0m8.823 ms - 36[0m
+null
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m6.778 ms - 5495[0m
+[0mGET /monthHistory? [32m200 [0m5.251 ms - 137[0m
+[0mGET /accountDetail? [32m200 [0m5.104 ms - 257[0m
+30 seconds later send the first backup email
+Wed, 01 Jun 2016 07:39:52 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at app.js:34:9
+Wed, 01 Jun 2016 07:39:52 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
+Wed, 01 Jun 2016 07:39:52 GMT express-session deprecated undefined resave option; provide resave option at app.js:42:9
+Wed, 01 Jun 2016 07:39:52 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:42:9
+Wed, 01 Jun 2016 07:39:52 GMT express-session deprecated req.secret; provide secret option at app.js:42:9
+Listening on port 8080
+[0mGET /accountDetail? [32m200 [0m33.199 ms - 257[0m
+[0mGET /monthHistory? [32m200 [0m29.085 ms - 137[0m
+userName lilieming
+[{"userName":"lilieming","label":"test","modifyTime":1464766466676,"count":2,"_id":"57160503b917615501620b31"}] result is 
+[0mPUT /moneyDetail [32m200 [0m33.987 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m27.897 ms - 5148[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m12.145 ms - 5148[0m
+[0mGET /accountDetail? [32m200 [0m6.093 ms - 257[0m
+[0mGET /monthHistory? [32m200 [0m5.913 ms - 137[0m
+task begin
+bakcup  data length is: undefined
+user colour.hu  has no data
+[0mGET /monthHistory? [32m200 [0m12.446 ms - 137[0m
+[0mGET /accountDetail? [32m200 [0m12.321 ms - 257[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m17.822 ms - 5148[0m
+[0mGET /monthHistory? [32m200 [0m18.272 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m6.793 ms - 3835[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m7.848 ms - 5148[0m
+[0mGET /accountDetail? [32m200 [0m5.775 ms - 257[0m
+[0mGET /monthHistory? [32m200 [0m5.088 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m12.179 ms - 5148[0m
+2016-06-01
+_tempObj not exist  2016-06 { '2016-04': { monthIn: 8700, monthOut: 694.8000000000001 },
+  '2016-05': { monthIn: 10026, monthOut: 3562.0999999999995 } }
+[0mDELETE /moneyDetail [32m200 [0m20.267 ms - 36[0m
+null
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m10.746 ms - 5495[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m6.445 ms - 2732[0m
+[0mGET /monthHistory? [32m200 [0m8.170 ms - 137[0m
+[0mGET /accountDetail? [32m200 [0m6.244 ms - 257[0m

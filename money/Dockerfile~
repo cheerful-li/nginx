@@ -1,0 +1,15 @@
+FROM lilieming/base 
+MAINTAINER lilieming
+
+
+RUN mkdir app
+WORKDIR /app
+COPY . .
+
+
+CMD service mongodb start && service ssh start && node bin/www
+
+EXPOSE 3000
+
+
+

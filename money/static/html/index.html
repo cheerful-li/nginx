@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html >
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<title>钱特么都去哪儿了</title>
+	<link rel="stylesheet" href="/money/css/bootstrap/bootstrap.min.css">
+	<link rel="stylesheet" href="/money/css/jquery-ui/jquery-ui.min.css">
+	<link rel="stylesheet" href="/money/css/main.css">
+	
+</head>
+<body>
+	<div class="container" id="loginContainer" style="max-width:500px;display:none">
+		<form onsubmit="return fasle" >
+		<div class="panel panel-primary">
+		<!-- <div class="panel-heading text-center">登录||注册</div> -->
+		<div class="panel-content" style="padding:10px;">
+			<div class="form-group">
+			<label for="userName" class=" label-control">用户名：</label>
+			<!-- <div class="input-group"> -->
+				<input type="text" class="form-control" name="userName" tabindex="1"  id="userName">
+			<!-- </div> -->
+			</div>
+			<div class="form-group">
+				<label for="password" class=" label-control">密码：</label>
+				<!-- <div class="input-group"> -->
+					<input type="password" class="form-control" name="password"  id="password" tabindex="2">
+				<!-- </div> -->
+			</div>
+		</div>
+		<div class="panel-footer">
+			<div class="row">
+				<div class="col-xs-6" style="margin-bottom:5px;">
+					<button class="btn btn-primary btn-block login" id="login">登录</button>
+				</div>
+				<div class="col-xs-6">
+					<button class="btn btn-info btn-block register">注册</button>
+				</div>	
+			</div>
+		</div>
+		</div>
+		</form>
+	</div>
+	<div id="content" >
+	</div>
+	<script src="/money/js/jquery/jquery.min.js"></script>
+	<script src="/money/js/jquery-debounce-throttle.js"></script>
+	<script src="/money/js/jquery-blockUI/jquery.blockUI.js"></script>
+	<script src="/money/js/bootstrap/bootstrap.min.js"></script>
+	<script src="/money/js/jquery-ui/jquery-ui.min.js"></script>
+	<script src="/money/js/jquery-ui/datepicker-cn.js"></script>
+	<script src="/money/js/react/react.min.js"></script>
+	<script src="/money/js/util/cookie.js"></script>
+	<script src="/money/js/util/helper.js"></script>
+	<script src="/money/js/highcharts/highcharts.js"></script>
+	<script src="/money/js/react/JSXTransformer.js"></script>
+	<script>
+		//移动端需要加请求地址
+		// var root_url = "http://182.92.99.158:3000";  
+		var isAndroid = false; //是否是webview
+		 var root_url = "/money/xhr";
+		var id = 1234; //全局ID
+		$.support.transition = false; //全局禁用bootstrap过渡效果
+		/*$.holdReady(true);*/ //延迟就绪事件
+		document.addEventListener('deviceready', function(){//ready事件代理到deviceready
+			$.ready();
+		});
+	</script>
+
+	<script type="text/jsx" src="/money/js/src/index.js"></script> 
+	<!-- <script  src="../js/build/index.js"></script>  -->
+</body>
+</html>

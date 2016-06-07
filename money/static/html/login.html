@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<title>登录</title>
+	<link rel="stylesheet" href="/bootstrap/bootstrap.css">
+	<link rel="stylesheet" href="/jquery-ui/jquery-ui.min.css">
+	<script src="/jquery/jquery.js"></script>
+	<script src="/bootstrap/bootstrap.js"></script>
+</head>
+<body>
+	<div class="container" style="max-width:500px;">
+		<form onsubmit="return fasle" >
+		<div class="panel panel-primary">
+		<!-- <div class="panel-heading text-center">登录||注册</div> -->
+		<div class="panel-content" style="padding:10px;">
+			<div class="form-group">
+			<label for="userName" class=" label-control">用户名：</label>
+			<!-- <div class="input-group"> -->
+				<input type="text" class="form-control" name="userName" id="userName">
+			<!-- </div> -->
+			</div>
+			<div class="form-group">
+				<label for="password" class=" label-control">密码：</label>
+				<!-- <div class="input-group"> -->
+					<input type="password" class="form-control" name="password" id="password">
+				<!-- </div> -->
+			</div>
+		</div>
+		<div class="panel-footer">
+			<div class="row">
+				<div class="col-xs-6" style="margin-bottom:5px;">
+					<button class="btn btn-primary btn-block login">登录</button>
+				</div>
+				<div class="col-xs-6">
+					<button class="btn btn-info btn-block register">注册</button>
+				</div>	
+			</div>
+		</div>
+		
+
+		</div>
+	</form>
+	</div>
+	
+	<script>
+		function validateForm(){
+			var flag = true;
+				if($("#userName").val().trim() == ""){
+					flag = false;
+					$("#userName").parent().addClass("has-error");
+				} else {
+					$("#userName").parent().removeClass("has-error");
+				}
+
+				if($("#password").val().trim() == ""){
+					flag = false;
+					$("#password").parent().addClass("has-error");
+				} else {
+					$("#password").parent().removeClass("has-error");
+				}
+			return flag;
+		};
+		function submit(_flag,event){
+			event.stopPropagation();
+			event.preventDefault();
+			var url = "/register"
+			if(_flag == "login") url="/login";
+			if(validateForm()){
+				var obj = {};
+				obj.userName = $("#userName").val();
+				obj.password = $("#password").val();
+				$.post(url,obj).done(cbSbumit.bind(this,_flag));
+			}
+		}
+		function cbSbumit(_flag,data){
+			if(data.code == 200){
+				location.href="index.html";
+			} else {
+				alert(data.message || "请求失败");
+			}
+		};
+		$(function(){
+			$(".login").on("click",submit.bind(this,"login"));
+			$(".register").on("click",submit.bind(this,"register"));
+		});
+			
+	</script>
+</body>
+</html>

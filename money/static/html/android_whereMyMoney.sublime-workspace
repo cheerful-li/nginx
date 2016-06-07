@@ -1,0 +1,289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"compo",
+				"componentWillMount"
+			],
+			[
+				"con",
+				"condition"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/日常记录.txt",
+		"/C/Users/Administrator/Desktop/前端笔记/javascript学习笔记.txt",
+		"/D/nodeWs/hello/module/util.js",
+		"/D/nodeWs/hello/routes/login.js",
+		"/D/nodeWs/hello/server.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/androidProject/hello/platforms/android/AndroidManifest.xml",
+		"/D/androidProject/hello/www/index.html",
+		"/D/androidProject/hello/www/js/index.js",
+		"/D/androidProject/hello/config.xml",
+		"/D/nodeWs/hello/static/js/src/index.js",
+		"/D/nodeWs/hello/routes/index.js",
+		"/D/nodeWs/hello/app.js",
+		"/D/nodeWs/hello/static/html/login.html",
+		"/D/nodeWs/hello/routes/upload.js",
+		"/D/nodeWs/hello/routes/moneyDetail.js",
+		"/D/nodeWs/hello/routes/labelGroup.js",
+		"/D/nodeWs/hello/routes/account.js",
+		"/D/nodeWs/hello/module/db.js",
+		"/D/nodeWs/hello/static/html/upload.html",
+		"/D/nodeWs/hello/static/js/build/index.js",
+		"/D/nodeWs/hello/static/js/index.js",
+		"/C/Users/Administrator/Desktop/前端笔记/test-bootstrap.html",
+		"/C/Users/Administrator/Desktop/前端笔记/costDetailDemo.html",
+		"/D/nodeWs/hello/package.json",
+		"/E/sublime编辑器/Sublime Text3/Data/Packages/User/console.sublime-snippet",
+		"/C/Users/Administrator/Desktop/前端笔记/bootstrap笔记.html",
+		"/C/Users/Administrator/Desktop/jquery-ui-1.11.4.custom/datepicker-cn.js",
+		"/C/Users/Administrator/Desktop/前端笔记/css学习笔记.txt",
+		"/C/Users/Administrator/Desktop/前端笔记/test.html",
+		"/D/nodeWs/hello/routes/users.js",
+		"/D/nodeWs/hello/bin/www",
+		"/D/nodeWs/hello/static/html/index.html",
+		"/D/nodeWs/hello/static/css/main.css",
+		"/D/nodeWs/hello/node_modules/express/package.json",
+		"/D/nodeWs/hello/index.js",
+		"/C/Users/Administrator/Desktop/前端笔记/hhm-dateInputer.html",
+		"/C/Users/Administrator/Desktop/前端笔记/temp1.html",
+		"/C/Users/Administrator/Desktop/前端笔记/hhm-draggerable.html",
+		"/C/Users/Administrator/Desktop/前端笔记/tt.js",
+		"/E/Game/dont_starve/data/DLC0001/scripts/tuning.lua",
+		"/E/Game/dont_starve/data/scripts/prefabs/player_common.lua",
+		"/E/Game/dont_starve/data/scripts/prefabs/wickerbottom.lua",
+		"/E/Game/dont_starve/data/prefabs.xml",
+		"/E/Game/dont_starve/data/scripts/components/locomotor.lua",
+		"/C/Users/Administrator/Desktop/论文答辩草稿.txt",
+		"/C/Users/Administrator/Desktop/js2014082602/index.html",
+		"/C/Users/Administrator/Desktop/记录表.text",
+		"/C/Users/Administrator/Desktop/text.html",
+		"/C/Users/Administrator/Desktop/tt.js",
+		"/E/sublime编辑器/Sublime Text3/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/E/sublime编辑器/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"AddForm",
+			"ready",
+			"this.refs",
+			"addForm",
+			"Head",
+			"Item",
+			"Head",
+			"jquery",
+			"收入",
+			"Head",
+			"addForm",
+			"dateInput",
+			"addForm",
+			"this.$refs.monthPlan",
+			"Head",
+			"col-",
+			"datePercent",
+			"Head",
+			"HEAD",
+			"responseSuccess",
+			"ObjectId",
+			"uti",
+			"responseSuccess",
+			"response",
+			"req.session.userName",
+			"Head",
+			"responseSuccess",
+			"responseFailed",
+			"addForm",
+			"onDelete",
+			"dbHelper",
+			"addForm",
+			"datepic",
+			"component",
+			"addForm",
+			"datePercent",
+			"monthDate",
+			"nowDate",
+			"收入",
+			"onClickAdd",
+			"isIncome",
+			"支出",
+			"glyp",
+			"put",
+			"AddForm",
+			"style",
+			"totalMoney",
+			"this.props.",
+			"style",
+			"class",
+			"style",
+			"text-over",
+			"console.log",
+			"AddCost",
+			"wilson",
+			"wilson_health",
+			"WILSON",
+			"strong",
+			"insertBefore",
+			"append",
+			"offset",
+			"$1",
+			"$",
+			"canvas",
+			"svg",
+			"居中",
+			"ctrl+alt+",
+			"fonter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "D:\\androidProject\\hello"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 133.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

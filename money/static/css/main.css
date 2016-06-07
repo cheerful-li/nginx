@@ -1,0 +1,66 @@
+.noborder{
+	border-top:none;
+	border-bottom:none;
+}
+.media .list-group-item{
+	font-weight:bold;
+}
+.media .list-group-item strong{
+	font-weight:bolder;
+	font-size:20px;
+	display: inline-block;
+	padding:0 5px;
+}
+.list-group.list-group-sm .list-group-item{
+	padding-top:5px;
+	padding-bottom:5px;
+} 
+.color-red{
+	color:#f00;
+}
+body{
+	background-color:red;
+	background:url(/img/bg5.jpg) no-repeat;
+	 background-size:cover; 
+	background-attachment:fixed;
+	font-family: 微软雅黑,宋体;
+	padding-bottom:70px;
+}
+#nav{z-index:100000;position:fixed;padding-top:5px;width:100%;bottom:0;background-color: rgba(0,0,0,0.8);box-shadow: 0 -2px 3px #777;}
+#nav>li{float:right;margin:0 3px;}
+/* .hover{
+	opacity:0;
+	transition:all 0.3;
+}
+.list-group-item:hover .hover ,.panel-heading:hover .hover{
+	opacity:1;
+} */
+.nav-tabs > li > a {
+	background-color:#aaa;
+}
+/* datepicker */
+#ui-datepicker-div{
+	z-index:10 !important;
+}
+/*#dateInput{
+	border:0;
+	border-bottom:5px solid #ace;
+
+}*/
+textarea{
+	resize:both;
+}
+.tab-pane:not(.active){
+	display:none !important;
+}
+a:hover{cursor:pointer;}
+.border-left-right-3{
+	/*border-left:3px solid red;*/
+	margin-top: 1em;
+	border-right: 3px solid red;
+}
+.logOut{opacity:0.7;display: inline-block;background: #fff;}
+.logOut:hover{opacity:1;}
+.userName{display: inline-block;margin-right: 1em;}
+#loginContainer{position:absolute;margin:auto;max-width:500px;height:300px;left:0;right:0;top:0;bottom:0;}
+#addContainer{position:absolute;margin:auto;height:300px;left:0;right:0;top:0;bottom:50px;}
