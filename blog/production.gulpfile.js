@@ -7,7 +7,7 @@ var rename = $.rename;
 var uglify = $.uglify;
 var webpack = require('webpack');
 var webpackConfig = require('./webpack.config.js');
-
+var merge = require('merge-stream');
 var libRevManifest = 'rev-manifest-lib.json';
 gulp.task('help', $.taskListing);
 
@@ -15,6 +15,7 @@ gulp.task('help', $.taskListing);
 // === /public/pages/createBlog/createBlog.js --> /build/pages/createBlog/createBlog.bundle.js
 gulp.task('webpack', function(cb) {
 	del.sync('./build/**');
+	// console.log(webpackConfig.refresh());
 	webpack(webpackConfig.refresh(), function(err, stats) {
 		cb(err);
 	});
@@ -46,16 +47,21 @@ gulp.task('rev_lib', ['copy'], function() {
 //webpack打包后的js文件添加hash
 //保存文件映射到 /build/rev
 gulp.task('rev_page', ['copy'], function() {
-	var stream = gulp.src('./build/pages/**/*.bundle.js')
-		.pipe(rename(function(path) { //重命名 去掉.bundle
+	var stream1 = gulp.src(['./build/pages/**/*.bundle.js'])
+		.pipe(rename(function(path) { //重命名js 去掉.bundle
 			path.basename = path.basename.split('.')[0];
 		}))
 		.pipe(rev()) //hash
 		.pipe(gulp.dest('./build/pages'))
 		.pipe(rev.manifest('rev-manifest-pages.json')) //映射文件
 		.pipe(gulp.dest('./build/rev'));
-	
-	return stream;
+
+	var stream2 = gulp.src(['./build/pages/**/*.css'])
+		.pipe(rev()) //hash
+		.pipe(gulp.dest('./build/pages'))
+		.pipe(rev.manifest('rev-manifest-pages-css.json')) //映射文件
+		.pipe(gulp.dest('./build/rev'));
+	return merge(stream1,stream2);
 });
 //1.清除/static/lib下hash前的文件
 //2.删除webpack打包的js bundle文件
@@ -68,9 +74,14 @@ gulp.task('clean',['rev_lib','rev_page'],function(){
 });
 //替换html文件中的引用为hash后文件名
 gulp.task('rev', ['rev_lib', 'rev_page','clean'], function() {
-	return gulp.src(['./build/rev/*.json', './build/pages/**/*.html','./views/**/*.html'])
-		.pipe(revCollector())
-		.pipe(gulp.dest('./build/pages'));
+	return merge(
+				gulp.src(['./build/rev/*.json', './build/pages/**/*.html'])
+				.pipe(revCollector())
+				.pipe(gulp.dest('./build/pages')),
+				gulp.src(['./build/rev/*.json','./views/**/*.html','!./views/builded/**/*.html'])
+				.pipe(revCollector())
+				.pipe(gulp.dest('./views/builded'))
+			);
 
 });
 function bytediffFormatter (data) {
@@ -88,10 +99,21 @@ gulp.task('minify',['rev'],function(){
 		.pipe($.htmlmin({collapseWhitespace:true}))
 		.pipe($.bytediff.stop(bytediffFormatter))
 		.pipe(gulp.dest('./build/pages'));
+	gulp.src('./views/builded/**/*.html')
+		.pipe($.bytediff.start())
+		.pipe($.htmlmin({collapseWhitespace:true}))
+		.pipe($.bytediff.stop(bytediffFormatter))
+		.pipe(gulp.dest('./views/builded'));
 	//minify js
-	gulp.src('./build/pages/**/*.js')
+	gulp.src(['./build/pages/**/*.js','!./build/pages/**/*.bundle.js'])
 		.pipe($.bytediff.start())
 		.pipe(uglify())
+		.pipe($.bytediff.stop(bytediffFormatter))
+		.pipe(gulp.dest('./build/pages'));
+	//minify css
+	gulp.src(['./build/pages/**/*.css'])
+		.pipe($.bytediff.start())
+		.pipe($.cssmin())
 		.pipe($.bytediff.stop(bytediffFormatter))
 		.pipe(gulp.dest('./build/pages'));
 });

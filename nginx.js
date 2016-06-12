@@ -57,4 +57,5 @@ app.use(function(err,req,res,next){
 var port = process.env.PORT||80;
 app.listen(port,function(){
 	console.log("server listen at",port,"serving projects:",projects);
+	console.log("process.env.NODE_ENV:",process.env.NODE_ENV);
 })

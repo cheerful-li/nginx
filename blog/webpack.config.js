@@ -2,6 +2,8 @@ var fs = require('fs');
 var path =require('path');
 var precss       = require('precss');
 var autoprefixer = require('autoprefixer');
+var ExtractTextPlugin = require('extract-text-webpack-plugin');
+var extractCSS = new ExtractTextPlugin('[name].css');
 var config  = {
 	entry: {
 		/*'./static/pages/createBlog/createBlog':'./public/pages/createBlog/createBlog.js'*/
@@ -22,14 +24,14 @@ var config  = {
 			},
 			{
 				test:/\.scss$/,
-				loader:'style!css!postcss!sass'
+				loader:extractCSS.extract(['css','postcss','sass'])
 			},
 			{
 				test:/\.less$/,
 				loader:'style!css!postcss!less'
 			},{
 				test:/\.css$/,
-				loader:'style-loader!css-loader!postcss-loader'
+				loader:extractCSS.extract(['css','postcss'])
 			},
 			{
 		          test: /\.(png|jpe?g|eot|svg|ttf|woff2?)$/,
@@ -40,7 +42,8 @@ var config  = {
 	postcss: function(){
 		//美化css、添加浏览器前缀
 		return [precss,autoprefixer];
-	}
+	},
+	plugins:[extractCSS]
 
 };
 
@@ -54,5 +57,7 @@ config.refresh = function(){
 	});
 	return config;
 }
+// config.refresh();
 module.exports = config;
 // console.log(config)
+
