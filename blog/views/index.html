@@ -2,12 +2,15 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>首页</title>
+	<title>李烈明的个人博客-前端开发-网易杭州前端开发工程师</title>
+	<meta name="keywords" content="前端博客,李烈明,前端开发,前端文章,前端">
+	<meta name="description" content="前端技术分享 good day!">
 	<link rel="stylesheet" href="/blog/lib/bootstrap.min.css">
 	<link rel="stylesheet" href="/blog/lib/dialog/dialog.css">
 	<link rel="stylesheet" href="/blog/pages/index/index.css">
 </head>
 <body>
+	<h1 style="width:0;height:0;">博客首页</h1>
 	<div class="pageContainer">
 		<div class="login">
 			<%if(userName){%>
@@ -25,7 +28,7 @@
 				<div class="imgContainer">
 					<img class="introductionImg" src="<%= item.introductionImg?item.introductionImg:'/blog/images/defaultIntroductionImg'+parseInt(Math.random()*5)+'.jpg' %>">
 					<div class="titleContainer">
-						<a href="/blog/detail/<%=item['_id']%>" class="title"><%= item.title %></a>
+						<a href="/blog/detail/<%=item['_id']%>" class="title"><h2><%= item.title %></h2></a>
 						<span class="date"><%= item.createTime.toLocaleString() %></span>
 						
 					</div>
@@ -38,6 +41,9 @@
 			</li>
 		<% }) %>
 		</ul>
+	</div>
+	<div class="friendLink">
+		<a href="http://www.coderlan.com/">蓝札的博客</a>
 	</div>
 	<script src="/blog/lib/jquery-1.11.3.min.js"></script>
 	<script src="/blog/lib/dialog/dialog.js"></script>

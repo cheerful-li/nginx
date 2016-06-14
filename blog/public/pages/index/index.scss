@@ -44,7 +44,7 @@ body{
 					.title{
 						color:#ddd;
 						font-weight: bold;
-						font-size:20px;
+						font-size:25px;
 						text-decoration: none;
 						display: inline-block;
 						transition:all 0.5s;
@@ -52,6 +52,9 @@ body{
 						top:-3px;
 						&:hover{
 							font-size:30px;
+						}
+						h2{
+							font-size:inherit;
 						}
 					}
 					.date{
@@ -67,4 +70,8 @@ body{
 		
 		
 	}
+}
+
+.friendLink{
+	display:none;
 }
