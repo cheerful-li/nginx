@@ -32,6 +32,7 @@ app.use('/xhr/logout',function(req,res){
 	res.send({code:200,result:'ok'});
 });
 
+//子项目注册
 projects.forEach(function(name){
 	app.use('/'+name,require('./'+name+'/app.js'))
 });
@@ -44,7 +45,7 @@ app.get('/',function(req,res,next){
 	if(projects.indexOf(req.subdomains[0]) !== -1 ){
 		res.redirect("/"+req.subdomains[0]);
 	}else{
-		res.sendFile(path.join(__dirname,'index.html'));
+		res.redirect("/blog/");
 	}
 	
 })
