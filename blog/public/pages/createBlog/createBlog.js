@@ -290,6 +290,7 @@ $(function() {
 	var blogId = location.search?location.search.match(/id=(\w*)/)[1]:false;
 	if(blogId){
 		$.get('/blog/xhr/detail/'+blogId).then(function(res){
+			if(res.code == 401) location.href = "/blog/"; //需要登录
 			var result = res.blog;
 			if(result && result["_id"]){
 				window.__blogId = result["_id"];

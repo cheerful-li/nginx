@@ -22,6 +22,9 @@
 			<div class="centerArea">
 				<div class="pageTop">
 					<input type="text" class="form-control titleInput" style="cursor:default" value="<%=blog.title%>" disabled readonly name="title" >
+					<%if(userName){%>
+						<a href="/blog/createBlog/createBlog.html?id=<%=blog['_id']%>" class="f-ml-5">编辑</a>
+					<%}%>
 				</div>
 				<div class="blogContainer" >
 					<%-blog.content%>

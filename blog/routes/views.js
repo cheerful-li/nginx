@@ -20,7 +20,9 @@ router.get('/index.html',function(req,res,next){
 //博客详情页
 router.get('/detail/:id',function(req,res){
   BlogModel.findById(req.params.id,function(err,blog){
-    res.render(filePathPrefix + 'detail.html',{blog});
+    var data = {blog,userName:''};
+    if(req.session&&req.session.userName) data.userName = req.session.userName;
+    res.render(filePathPrefix + 'detail.html',data);
   })
 });
 

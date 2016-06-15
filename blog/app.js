@@ -28,7 +28,7 @@ app.use('/',views);
 //登陆判断
 app.use(function(req,res,next){
 	if(!req.session.userName){
-		res.send({code:400,message:'need login!'});
+		res.send({code:401,message:'need login!'});
 	}else{
 		next();
 	}

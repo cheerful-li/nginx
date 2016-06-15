@@ -5,6 +5,7 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var session = require("express-session");
+require('./util/common.js');
 //配置文件
 var config = require("./config.json");
 
