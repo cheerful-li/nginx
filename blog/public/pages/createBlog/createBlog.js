@@ -91,7 +91,8 @@ var tabUtil = {
 		}
 	}
 };
-function uploadImg(cb){
+
+function uploadImg(cb) {
 	var $upfile = $("#upfile");
 	$upfile.on('change', function() {
 		var formData = new FormData();
@@ -118,7 +119,7 @@ function dealImg(needInsert) {
 		uploadedImg.push(url);
 		showImgPreview();
 		//插入到编辑区域
-		if(needInsert){
+		if (needInsert) {
 			var blogContainer = rangeUtil.getRangeNode();
 			if (blogContainer != $(".blogContainer")[0]) {
 				$(blogContainer).replaceWith($("<img src=\"" + url + "\"/>"));
@@ -128,13 +129,13 @@ function dealImg(needInsert) {
 		}
 	});
 }
-tabUtil.register("img", dealImg.bind(this,true));
+tabUtil.register("img", dealImg.bind(this, true));
 //code标签
 function dealCode(tag, clazz) {
 	if (clazz && clazz.indexOf('js') !== -1) clazz += " language-javascript";
 	if (clazz && clazz.indexOf('css') !== -1) clazz += " language-css";
 	if (!clazz || clazz.indexOf('language') == -1) clazz = clazz ? clazz + ' language-html' : 'language-html';
-	
+
 	var blogContainer = rangeUtil.getRangeNode();
 	/* globals dialog */
 	dialog({
@@ -167,7 +168,7 @@ function dealCode(tag, clazz) {
 tabUtil.register('code', dealCode);
 // h1~h6
 function dealHeading(tag, clazz) {
-	
+
 	var blogContainer = rangeUtil.getRangeNode();
 	var newElem = $("<" + tag + "/>").addClass(clazz)[0];
 	newElem.innerHTML = tag + " title here";
@@ -227,7 +228,7 @@ function onPressTab() {
 
 //表格项中tab切换到下一项
 function dealTableTab() {
-	
+
 	var node = rangeUtil.getRangeNode();
 	if (node.tagName == "TD" || node.tagName == "TH") {
 		var $table = $(node).closest("table");
@@ -276,10 +277,10 @@ $(function() {
 				return false;
 			}
 		});
-	$("#uploadArticleImg").on('click',dealImg);
-	$("#uploadIntroductionImg").on('click',function(){
-		uploadImg(function(res){
-			var url = introductionImg =  res.result;
+	$("#uploadArticleImg").on('click', dealImg);
+	$("#uploadIntroductionImg").on('click', function() {
+		uploadImg(function(res) {
+			var url = introductionImg = res.result;
 			var img = document.createElement('img');
 			img.src = url;
 			$(".introductionImgContainer").html("").append(img);
@@ -287,12 +288,12 @@ $(function() {
 	});
 
 	//编辑文章
-	var blogId = location.search?location.search.match(/id=(\w*)/)[1]:false;
-	if(blogId){
-		$.get('/blog/xhr/detail/'+blogId).then(function(res){
-			if(res.code == 401) location.href = "/blog/"; //需要登录
+	var blogId = location.search ? location.search.match(/id=(\w*)/)[1] : false;
+	if (blogId) {
+		$.get('/blog/xhr/detail/' + blogId).then(function(res) {
+			if (res.code == 401) location.href = "/blog/"; //需要登录
 			var result = res.blog;
-			if(result && result["_id"]){
+			if (result && result["_id"]) {
 				window.__blogId = result["_id"];
 				$("[name=title]").val(result.title);
 				$("[name=introductionContent]").val(result.introductionContent);
@@ -301,7 +302,7 @@ $(function() {
 				var img = document.createElement('img');
 				img.src = result.introductionImg;
 				$(".introductionImgContainer").html("").append(img);
-			}else{
+			} else {
 				window.__blogId = '';
 			}
 		});
@@ -314,22 +315,22 @@ $(".submit").on('click', function() {
 	var title = $("[name=title]").val();
 	var content = $(".blogContainer").html();
 	//引言  不填写时取内容的前一百二十个字
-	var introductionContent = $("#introductionContent").val().trim()?$("#introductionContent").val().trim(): $(".blogContainer")[0].innerText.slice(0,120);
+	var introductionContent = $("#introductionContent").val().trim() ? $("#introductionContent").val().trim() : $(".blogContainer")[0].innerText.slice(0, 120);
 	var data = {
 		title: title,
 		content: content,
-		introductionImg:introductionImg,
-		introductionContent:introductionContent,
-		id: window.__blogId||undefined
+		introductionImg: introductionImg,
+		introductionContent: introductionContent,
+		id: window.__blogId || undefined
 	};
 	if (title.trim() && content.trim()) {
 		$.ajax({
 			url: '/blog/xhr/blog',
-			method: window.__blogId?'POST':'PUT',
+			method: window.__blogId ? 'POST' : 'PUT',
 			data: JSON.stringify(data),
 			contentType: 'application/json;charset=UTF-8'
 		}).done(function(res) {
-			location.href="/blog/index.html"
+			location.href = "/blog/index.html"
 		}).fail(function(err) {
 			console.log(err);
 		});
