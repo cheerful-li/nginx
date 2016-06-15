@@ -1,0 +1,8 @@
+{
+  "bootstrap.min.css": "bootstrap-3e53c6843a.min.css",
+  "dialog/dialog.css": "dialog/dialog-045d2a0b6c.css",
+  "dialog/dialog.js": "dialog/dialog-d53fa9f9c3.js",
+  "jquery-1.11.3.min.js": "jquery-1-13c0a5055c.11.3.min.js",
+  "prism/prism.css": "prism/prism-bc1650f2e3.css",
+  "prism/prism.js": "prism/prism-e1d1ee9943.js"
+}
