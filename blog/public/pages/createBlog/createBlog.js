@@ -1,6 +1,7 @@
 'use strict';
 require("./style.scss");
 var rangeUtil = require('../../common/rangeUtil.js');
+
 var uploadedImg = [];
 var introductionImg = "";
 
