@@ -32,11 +32,11 @@ var config  = {
 			},{
 				test:/\.css$/,
 				loader:extractCSS.extract(['css','postcss'])
-			},
+			}/*,
 			{
 		          test: /\.(png|jpe?g|eot|svg|ttf|woff2?)$/,
-		          loader: "file?name=./public/images/[hash][name].[ext]"
-		    }
+		          loader: "file?name=[path][hash:6][name].[ext]"
+		    }*/
 		]
 	},
 	postcss: function(){
@@ -57,7 +57,7 @@ config.refresh = function(){
 	});
 	return config;
 }
-// config.refresh();
+config.refresh();
 module.exports = config;
 // console.log(config)
 

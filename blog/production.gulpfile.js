@@ -8,7 +8,8 @@ var uglify = $.uglify;
 var webpack = require('webpack');
 var webpackConfig = require('./webpack.config.js');
 var merge = require('merge-stream');
-var libRevManifest = 'rev-manifest-lib.json';
+var libRevManifestFile = 'rev-manifest-lib.json';
+var imagesRevManifestFile = 'rev-manifest-images.json';
 gulp.task('help', $.taskListing);
 
 //webpack打包pages下面的页面文件
@@ -40,7 +41,16 @@ gulp.task('rev_lib', ['copy'], function() {
 	return gulp.src('./build/lib/**')
 		.pipe(rev())
 		.pipe(gulp.dest('./build/lib'))
-		.pipe(rev.manifest(libRevManifest))
+		.pipe(rev.manifest(libRevManifestFile))
+		.pipe(gulp.dest('./build/rev'));
+});
+// 为/build/images 静态文件添加hash
+// 保存文件映射到 /build/rev
+gulp.task('rev_images', ['copy'], function() {
+	return gulp.src('./build/images/**')
+		.pipe(rev())
+		.pipe(gulp.dest('./build/images'))
+		.pipe(rev.manifest(imagesRevManifestFile))
 		.pipe(gulp.dest('./build/rev'));
 });
 
@@ -64,18 +74,19 @@ gulp.task('rev_page', ['copy'], function() {
 	return merge(stream1,stream2);
 });
 //1.清除/static/lib下hash前的文件
-//2.删除webpack打包的js bundle文件
-gulp.task('clean',['rev_lib','rev_page'],function(){
-	var map = require('./build/rev/'+libRevManifest);
+//2.清除/static/images下hash前的文件
+//3.删除webpack打包的js bundle文件
+gulp.task('clean',['rev_lib','rev_page','rev_images'],function(){
+	var map = require('./build/rev/'+libRevManifestFile);
 	for(var name in map){
 		del('./build/lib/'+name);
 	}
 	del('./build/pages/**/*.bundle.js');
 });
 //替换html文件中的引用为hash后文件名
-gulp.task('rev', ['rev_lib', 'rev_page','clean'], function() {
+gulp.task('rev', ['rev_lib', 'rev_page','rev_images','clean'], function() {
 	return merge(
-				gulp.src(['./build/rev/*.json', './build/pages/**/*.html'])
+				gulp.src(['./build/rev/*.json', './build/pages/**/*.html','./build/pages/**/*.css'])
 				.pipe(revCollector())
 				.pipe(gulp.dest('./build/pages')),
 				gulp.src(['./build/rev/*.json','./views/**/*.html','!./views/builded/**/*.html'])

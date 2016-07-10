@@ -1,4 +1,4 @@
-# Logs
+﻿# Logs
 logs
 *.log
 npm-debug.log*
@@ -33,3 +33,5 @@ node_modules
 .node_repl_history
 # 配置文件
 config.json
+
+blog/public/uploaded
