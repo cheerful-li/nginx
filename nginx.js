@@ -1,5 +1,6 @@
 var express = require('express');
 var app = express();
+var logger = require('morgan');
 var projects = ['blog','money']; //子项目
 var path = require('path');
 var cookieParser = require('cookie-parser');
@@ -8,7 +9,7 @@ var session = require("express-session");
 require('./util/common.js');
 //配置文件
 var config = require("./config.json");
-
+app.use('/**/xhr/**',logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
   extended: false

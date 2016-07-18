@@ -1,1 +1,75 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>good day!</title><link rel="stylesheet" href="/blog/lib/prism/prism-bc1650f2e3.css"><link rel="stylesheet" href="/blog/lib/dialog/dialog-045d2a0b6c.css"><link rel="stylesheet" href="/blog/lib/bootstrap-3e53c6843a.min.css"><link rel="stylesheet" href="/blog/pages/createBlog/createBlog-37d9914001.css"><style></style></head><body><div class="pageContainer"><div class="pageContent"><div class="leftArea"><h3 class="leftTitleContainer"><span class="leftTitle">介绍图</span></h3><a id="uploadIntroductionImg" href="javascript:void(0)">点击上传吧</a><div class="introductionImgContainer"></div><h3 class="leftTitleContainer"><span class="leftTitle">已上传的图片</span></h3><a id="uploadArticleImg" href="javascript:void(0)">点击上传吧</a><div class="imgPreviewContainer"></div></div><div class="centerArea"><div class="pageTop"><input type="text" class="form-control titleInput" style="" name="title" placeholder="title"></div><div class="blogContainer" contenteditable="true"></div></div><div class="rightArea"><div class="buttons"><button class="btn btn-info btn-sm" style="margin-bottom:10px" onclick="document.execCommand('bold')">加粗</button> <button class="btn btn-info btn-sm" style="margin-bottom:10px" onclick="document.execCommand('italic')">倾斜</button> <button class="btn btn-info btn-sm" style="margin-bottom:10px" onclick="document.execCommand('underline')">下划线</button> <button class="btn btn-info btn-sm" style="margin-bottom:10px" onclick="document.execCommand('strikeThrough')">中划线</button> <button class="btn btn-info btn-sm" style="margin-bottom:10px" id="op_createLink">插入链接</button> <button class="btn btn-info btn-sm" style="margin-bottom:10px" id="op_backColor">背景色</button> <button class="btn btn-info btn-sm" style="margin-bottom:10px" onclick="document.execCommand('insertHorizontalRule')">插入水平线</button></div><div style="position:absolute;bottom:20px;left:20px;right:20px;"><textarea class="form-control" id="introductionContent" name="introductionContent" rows="5" style="margin-bottom:10px" placeholder="引言"></textarea><button class="submit btn btn-primary btn-block">提交</button></div></div></div></div><script src="/blog/lib/jquery-1-13c0a5055c.11.3.min.js"></script><script src="/blog/lib/prism/prism-e1d1ee9943.js"></script><script src="/blog/lib/dialog/dialog-d53fa9f9c3.js"></script><script src="/blog/pages/createBlog/createBlog-09c3fc4114.js"></script><div class="upload" style="display:none"><input type="file" name="upfile" id="upfile"></div></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>good day!</title>
+	<link rel="stylesheet" href="/blog/lib/prism/prism.css">
+	<link rel="stylesheet" href="/blog/lib/dialog/dialog.css">
+	<link rel="stylesheet" href="/blog/lib/bootstrap.min.css">
+	<link rel="stylesheet" href="/blog/pages/createBlog/createBlog.css">
+	<style></style>
+</head>
+<body>
+	
+	<div class="pageContainer">
+		
+		<div class="pageContent">
+
+			<div class="leftArea">
+				<h3 class="leftTitleContainer">
+					<span class="leftTitle">介绍图</span>
+				</h3>
+				<a id="uploadIntroductionImg" href="javascript:void(0)">点击上传吧</a>
+				<div class="introductionImgContainer">
+					
+				</div>
+				<h3 class="leftTitleContainer">
+					<span class="leftTitle">已上传的图片</span>
+				</h3>
+				<a id="uploadArticleImg" href="javascript:void(0)">点击上传吧</a>
+				<div class="imgPreviewContainer">
+					
+				</div>
+
+			</div>
+			<div class="centerArea">
+				<div class="pageTop">
+					<input type="text" class="form-control titleInput" style="" name="title" placeholder="title">
+				</div>
+				<div class="blogContainer" contentEditable="true"></div>
+			</div>
+			<div class="rightArea">
+				<div class="buttons" >
+					<button class="btn btn-info btn-sm" style="margin-bottom:10px;" onclick="document.execCommand('bold')">加粗</button>
+					<button class="btn btn-info btn-sm" style="margin-bottom:10px;" onclick="document.execCommand('italic')">倾斜</button>
+					<button class="btn btn-info btn-sm" style="margin-bottom:10px;" onclick="document.execCommand('underline')">下划线</button>
+					<button class="btn btn-info btn-sm" style="margin-bottom:10px;" onclick="document.execCommand('strikeThrough')">中划线</button>
+					<button class="btn btn-info btn-sm " style="margin-bottom:10px;" id="op_createLink"  >插入链接</button>
+					<button class="btn btn-info btn-sm " style="margin-bottom:10px;" id="op_backColor"  >背景色</button>
+					<button class="btn btn-info btn-sm " style="margin-bottom:10px;" onclick="document.execCommand('insertHorizontalRule')"  >插入水平线</button>
+
+				</div>
+				<div style="position:absolute;bottom:20px;left:20px;right:20px;;">
+					<textarea class="form-control" id="introductionContent" name="introductionContent" rows="5" style="margin-bottom:10px;" placeholder="引言"></textarea>
+					<button class="submit btn btn-primary btn-block">提交</button>
+				</div>
+				
+			</div>
+
+		</div>
+		
+	</div>
+	
+	
+	
+	
+	
+	<script src="/blog/lib/jquery-1.11.3.min.js"></script>
+	<script src="/blog/lib/prism/prism.js"></script>
+	<script src="/blog/lib/dialog/dialog.js"></script>
+	<script src="/blog/pages/createBlog/createBlog.js"></script>
+	<div class="upload" style="display:none">
+		<input type="file" name="upfile" id="upfile">
+	</div>
+</body>
+</html>

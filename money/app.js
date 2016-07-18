@@ -26,11 +26,11 @@ var app = express();
 
 app.use(express.static(__dirname + "/static/css"));
 app.use(express.static(__dirname + "/static/js"));
-//日志相关
+//请求日志文件
 app.use("/xhr",log);
 //login register处理
 app.get('/login.html', function(req, res, next) {
-  res.sendfile(path.join(__dirname,"static/html/login.html"));
+  res.sendFile(path.join(__dirname,"static/html/login.html"));
 });
 app.use("/xhr", login);
 
