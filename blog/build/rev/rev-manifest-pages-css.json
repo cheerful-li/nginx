@@ -1,10 +1,5 @@
 {
-<<<<<<< HEAD
-  "createBlog/createBlog.css": "createBlog/createBlog-37d9914001.css",
-  "detail/detail.css": "detail/detail-7ed98bba85.css",
-=======
   "createBlog/createBlog.css": "createBlog/createBlog-0d62c3bb82.css",
-  "detail/detail.css": "detail/detail-e9de1bbffd.css",
->>>>>>> 28fced1ee68d9c7c9081203b33a004cbb8bd6f62
+  "detail/detail.css": "detail/detail-979dc47dbe.css",
   "index/index.css": "index/index-85b367454b.css"
 }
