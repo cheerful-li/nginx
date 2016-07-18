@@ -25,7 +25,7 @@
 			<li class="article">
 				
 				<div class="imgContainer">
-					<img class="introductionImg" src="<%= item.introductionImg?item.introductionImg:'/blog/images/defaultIntroductionImg'+parseInt(Math.random()*5)+'.jpg' %>">
+					<img class="introductionImg" src="<%= item.introductionImg?item.introductionImg:'/blog/assets/defaultIntroductionImg'+parseInt(Math.random()*5)+'.jpg' %>">
 					<div class="titleContainer">
 						<a href="/blog/detail/<%=item['_id']%>" class="title"><h2><%= item.title %></h2></a>
 						<span class="date"><%= item.createTime.format("yyyy-MM-dd") %></span>

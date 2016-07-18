@@ -13,6 +13,7 @@ app.use(logger('dev'));
 app.use(express.static(path.join(__dirname, 'build'),{maxAge:'365 days'}));
 app.use(express.static(path.join(__dirname, 'build/pages'),{maxAge:'365 days'}));
 app.use(express.static(path.join(__dirname, 'public'),{maxAge:'365 days'}));
+app.use(express.static(path.join(__dirname, 'public/pages'),{maxAge:'365 days'}));
 
 app.engine('.html',require('ejs').__express);
 app.set("view engine",'html');
