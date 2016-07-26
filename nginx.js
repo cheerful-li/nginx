@@ -54,7 +54,7 @@ app.get('/',function(req,res,next){
 //错误处理
 app.use(function(err,req,res,next){
 	console.log(err);
-	res.status(500).send("something is wrong");
+	res.redirect('/blog/index.html');
 });
 
 var port = process.env.PORT||80;

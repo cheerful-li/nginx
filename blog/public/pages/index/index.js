@@ -5,8 +5,8 @@ $(function() {
 	$("#loginBtn").on("click", function() {
 		window.loginWin = dialog({
 			title: '登陆',
-			content: '<form onsubmit="return false;"><input class="form-control" autofocus id="userName" style="width:500px;" placeholder="用户名" >' +
-				'<input class="form-control" id="password" style="width:500px;margin-top:20px;" placeholder="密码" ></form>',
+			content: '<form onsubmit="return false;"><input type="text" class="form-control" autofocus id="userName" style="width:500px;" placeholder="用户名" >' +
+				'<input type="password" class="form-control" id="password" style="width:500px;margin-top:20px;" placeholder="密码" ></form>',
 			ok: function() {
 				var userName = $("#userName").val();
 				var password = $("#password").val();

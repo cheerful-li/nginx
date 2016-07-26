@@ -31,13 +31,37 @@
 				</div>
 			</div>
 			<div class="rightArea">
-				
+				<div class="commentsList">
+					<%for(var i = 0; i < commentsList.length; i++){%>
+					<div class="commentItem">
+						<div class="commentHead">
+							<span class="commentName"><%= commentsList[i].name %></span>
+							<%if(commentsList[i].replyName){%>
+								回复 <span class="commentName"><%=commentsList[i].replyName%></span>
+							<%}%> 
+							<span class="commentTime">
+							<%= commentsList[i].createTime.format("yyyy-MM-dd hh:mm") %>
+							</span>
+							<a href="javascript:void(0)" data-reply-name="<%=commentsList[i].name%>" class="toCommentReply">回复</a>
+						</div>
+						<div class="commentContent"><%= commentsList[i].content %></div>
+					</div>
+					<%}%>
+				</div>
+				<div class="addCommentArea">
+					<form onsubmit="return false;">
+						<div class="replyTo" style="visibility:hidden;">回复：<span class="js-replyName"></span><div class="delete">x</div></div>
+						<input type="text" class="form-control" style="margin-bottom:10px;"  id="commentName" placeholder="昵称">
+						<textarea  class="form-control" style="margin-bottom:10px;" rows="5" id="commentContent"  placeholder="请输入评论内容"></textarea>
+						<input type="submit" class="js-submitCommentBtn btn btn-primary btn-block" value="提交">
+					</form>
+				</div>
 			</div>
 
 		</div>
 		
 	</div>
-	
+	<input type="hidden" id="blogId" value="<%=blogId%>">
 	<script src="/blog/lib/jquery-1.11.3.min.js"></script>
 	<script src="/blog/detail/detail.js"></script>
 	<script>

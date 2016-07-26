@@ -1,5 +1,4 @@
-var mongoose = require('mongoose');
-	mongoose.connect("mongodb://localhost/BLOG");
+var mongoose = require('./mongooseBase.js');
 var Schema = mongoose.Schema;
 var blogSchema = new Schema({
 	title:String,

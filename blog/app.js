@@ -7,6 +7,7 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var upload = require('./routes/upload.js');
 var blog = require('./routes/blog.js');
+var comment = require('./routes/comment.js');
 var views = require('./routes/views.js');
 
 app.use(logger('dev'));
@@ -25,6 +26,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 
 app.use('/',views);
+app.use('/xhr/',comment);
 
 //登陆判断
 app.use(function(req,res,next){
@@ -38,6 +40,7 @@ app.use(function(req,res,next){
 
 app.use('/xhr/',upload);
 app.use('/xhr/',blog);
+
 
 
 
